@@ -1,43 +1,29 @@
 // Imports
 #import "@preview/brilliant-cv:3.2.0": cv-section, cv-skill, cv-skill-with-level, cv-skill-tag, h-bar
 
-
 #cv-section("Skills")
 
-#cv-skill-with-level(
+#cv-skill(
+  type: [Core Engineering],
+  info: [Python (Expert) #h-bar() SQL #h-bar() PySpark #h-bar() Scala (Basic) #h-bar() Data Structures & Algorithms],
+)
+
+#cv-skill(
+  type: [Distributed Systems],
+  info: [Spark #h-bar() Databricks #h-bar() Delta Lake #h-bar() Azure Data Factory (ADF) #h-bar() S3/Blob Storage],
+)
+
+#cv-skill(
+  type: [Orchestration & Ops],
+  info: [Databricks Workflows (Airflow eq.) #h-bar() CI/CD (Azure DevOps) #h-bar() Docker],
+)
+
+#cv-skill(
+  type: [Applied AI & Safety],
+  info: [ML Anomaly Detection #h-bar() RAG #h-bar() Synthetic Data Generation],
+)
+
+#cv-skill(
   type: [Languages],
-  level: 4,
-  info: [English (Native) #h-bar() French (Fluent) #h-bar() Chinese (Conversational)],
-)
-
-#cv-skill-with-level(
-  type: [Programming],
-  level: 5,
-  info: [Python #h-bar() SQL #h-bar() R],
-)
-
-#cv-skill(
-  type: [Tech Stack],
-  info: [Tableau #h-bar() Snowflake #h-bar() AWS #h-bar() Docker #h-bar() Git],
-)
-
-#cv-skill(
-  type: [Frameworks & Libraries],
-  info: [Pandas #h-bar() NumPy #h-bar() Scikit-learn #h-bar() TensorFlow #h-bar() FastAPI],
-)
-
-// Skill tags example
-#cv-skill(
-  type: [Certifications],
-  info: [
-    #cv-skill-tag([AWS Certified])
-    #cv-skill-tag([Google Analytics])
-    #cv-skill-tag([Tableau Desktop])
-    #cv-skill-tag([Scrum Master])
-  ],
-)
-
-#cv-skill(
-  type: [Personal Interests],
-  info: [Swimming #h-bar() Cooking #h-bar() Reading #h-bar() Photography],
+  info: [English (Full professional) #h-bar() German (Full professional) #h-bar() Russian (Native) #h-bar() Kazakh (Native)],
 )

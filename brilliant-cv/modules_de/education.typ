@@ -9,8 +9,7 @@
   date: [10/2015 – 11/2017],
   location: [Aachen, Deutschland],
   description: list(
-    [Note: 1,4],
-    [Schwerpunkte: Leistungselektronik, Elektrische Antriebe],
+    [Note: 1,4 #h-bar() Schwerpunkte: Leistungselektronik, Elektrische Antriebe],
   ),
 )
 
@@ -20,7 +19,6 @@
   date: [08/2010 – 05/2015],
   location: [Astana, Kasachstan],
   description: list(
-    [GPA: 3.75 (~= 1-)],
-    [Schwerpunkte: Leistungselektronik],
+    [GPA: 3.75 #h-bar() Schwerpunkte: Leistungselektronik],
   ),
 )

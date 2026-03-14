@@ -1,0 +1,97 @@
+Nursultan 
+ORNOV 
+ 
+ 
+Telefon: +49 177 4299129 
+Email: nursultan.ornov@gmail.com 
+Weimarer Str. 32 - 73730 Esslingen 
+ 
+Data Engineer | Azure Databricks & ETL Expert  
+ 
+Beruflicher Werdegang 
+ 
+02/2023 – heute 
+Daimler Truck AG 
+Data Analytics Engineer / Data Scientist 
+ 
+• ELT-Pipeline Entwicklung & Optimierung: Verantwortung für performante ELT-Prozesse auf 
+Azure Databricks. Transformation massiver IoT-Zeitreihendaten in nutzbare Business-
+Datenmodelle unter Einsatz von Python und SQL. 
+ 
+• Datenqualität & Automatisierung: Etablierung automatisierter Testroutinen und CI/CD-
+Pipelines in Azure DevOps, wodurch Deployment-Zyklen von 2 Stunden auf 15 Minuten verkürzt 
+und die Datenintegrität sichergestellt wurde. 
+ 
+• Power BI Dashboards & Reporting: Bereitstellung zugangskontrollierter Power BI Dashboards 
+für Sales-Kampagnen und Produktentwicklung, um Abweichungen und Trends in der 
+Flottennutzung für das Senior Management sichtbar zu machen. 
+ 
+• Business Value & FinOps: Identifikation von Effizienzpotenzialen in der Cloud-Infrastruktur, 
+was zu einer jährlichen Kosteneinsparung von 470.000 € führte 
+ 
+• Data Products: Bereitstellung hochverfügbarer Datenprodukte für Sales-Kampagnen und die 
+Produktentwicklung, um Abweichungen und Trends in der Flottennutzung sichtbar zu machen. 
+ 
+09/2019 – 01/2023 Daimler Truck AG 
+Data Modeling & Simulation Engineer  
+ 
+• Datenmodellierung: Entwicklung komplexer Modelle zur Abbildung physikalischer 
+Fahrzeugsysteme (HV/LV), um Business-Fragen zum Energieverbrauch direkt beantworten zu 
+können. 
+• Data-Driven Engineering & Analytics: Datengestützte Analysen und Anomalie-Erkennung in 
+großen Testdatensätzen zur Absicherung von Produktfunktionen. 
+ 
+02/2018 – 08/2019 Valeo Siemens eAutomotive GmbH  
+Resident-Ingenieur bei Daimler AG 
+ 
+• Requirements Engineering: Technische Schnittstelle zwischen Kundenanforderungen und 
+Entwicklungsteams. Übersetzung von Business-Requirements in technische 
+Validierungspläne. 
+• Projektsteuerung: Sicherstellung der Datenverfügbarkeit und Qualität bei kritischen 
+Meilensteinen der Inbetriebnahme. 
+Ausbildung  
+ 
+10/2015 – 11/2017 RWTH Aachen, Aachen, Deutschland   
+Studiengang: Elektrotechnik 
+Abschluss: Master of Science, Note: 1,4 
+Schwerpunkte: Leistungselektronik, Elektrische Antriebe 
+ 
+08/2010 – 05/2015 Nasarbajew-Universität, Astana, Kasachstan   
+Studiengang: Elektrotechnik 
+Abschluss: Bachelor of Engineering, GPA: 3.75 (~= 1-)  
+Schwerpunkte: Leistungselektronik 
+ 
+Kenntnisse & Weiterbildungen 
+ 
+Sprachen & Frameworks: Python, PySpark, SQL 
+ETL & Datenpipelines: Azure Data Factory (ADF), Databricks, dbt, ELT/ETL-Pipelines, Schema-
+Mapping, Data Quality Monitoring 
+Cloud & Plattformen: Microsoft Azure (Databricks, ADF, Blob Storage, DevOps) – Zertifiziert: Azure 
+Data Engineer Associate 
+DevOps & Qualität: CI/CD-Automatisierung, Unit Testing, Git, Code Reviews 
+BI & Visualisierung: Power BI (inkl. Zugangskontrolle), Tableau, Management-Reporting 
+KI & Analytics: Generative AI Fundamentals (Databricks), Machine Learning (Kaggle), Statistik & 
+Wahrscheinlichkeitstheorie 
+Zertifizierungen: Azure Data Engineer Associate · Databricks Data Engineer Associate 
+ 
+ 
+Sprachkenntnisse 
+ 
+Deutsch 
+Verhandlungssicher (C2) – Arbeitssprache 
+Englisch 
+Verhandlungssicher (C1) 
+Russisch 
+Muttersprache 
+Kasachisch 
+Muttersprache 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Esslingen, den 23/02/2026 
+ 
+mein LinkedIn-Profil 

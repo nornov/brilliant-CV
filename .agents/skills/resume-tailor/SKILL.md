@@ -381,11 +381,20 @@ Always read before editing:
 - Front-load JD-matched skills within each `cv-skill` row
 - Drop irrelevant sections to preserve 1-page constraint
 
-### Step 5: Compile & verify output
+### Step 5: Compile & Quality Assurance (QA) Verification
 
-- Run the compile command (§5) and confirm 1-page output
-- Check PDF visually: no overflow, symbols display correctly, photo visible
-- Save with correct filename convention
+Before finalizing, **you MUST rigorously verify** the following:
+
+- **1-Page Limit (Strict):**
+  - Run the compile command (§5). If the PDF exceeds 1 page, *you must fix it.*
+  - *Fix:* Trim older/irrelevant jobs, keep max 3-4 highly impactful bullets per role, and merge or drop lower-tier skill rows.
+- **ATS Compatibility:**
+  - Verify that EXACT keywords from the JD are populated in `metadata.toml` (`injected_keywords_list`).
+  - Standard naming convention MUST be followed for the output file.
+- **Visual Impact & Power:**
+  - Check the PDF visually: ensure there is no text overflow, symbols display correctly, and the photo is visible.
+  - Bullets must not be "walls of text". They should start with strong action verbs and highlight quantifiable metrics (e.g., "470.000 €", ">80%"). Whitespace is crucial for a aesthetically pleasing, premium look.
+- **Save:** Use the correct filename convention.
 
 ---
 

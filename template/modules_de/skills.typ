@@ -1,38 +1,39 @@
 // Imports
 #import "@preview/brilliant-cv:3.2.0": cv-section, cv-skill, cv-skill-with-level, cv-skill-tag, h-bar
-#let metadata = toml("../metadata.toml")
-#let cv-section = cv-section.with(metadata: metadata)
 
+#cv-section("Kenntnisse & Weiterbildungen")
 
-#cv-section("Fähigkeiten")
-
-#cv-skill-with-level(
-  type: [Sprachen],
-  level: 4,
-  info: [Deutsch (Muttersprache) #h-bar() Englisch (Fließend) #h-bar() Französisch (Konversation)],
-)
-
-#cv-skill-with-level(
-  type: [Programmierung],
-  level: 5,
-  info: [Python #h-bar() SQL #h-bar() R],
+#cv-skill(
+  type: [Sprachen & Frameworks],
+  info: [Python (produktionsreif) #h-bar() PySpark #h-bar() SQL],
 )
 
 #cv-skill(
-  type: [Technologie Stack],
-  info: [Tableau #h-bar() Snowflake #h-bar() AWS #h-bar() Docker #h-bar() Git],
+  type: [Big Data & Pipelines],
+  info: [Apache Spark #h-bar() Azure Databricks #h-bar() Azure Data Factory #h-bar() ETL/ELT-Pipelines],
 )
 
 #cv-skill(
-  type: [Zertifizierungen],
-  info: [
-    #cv-skill-tag([AWS Zertifiziert])
-    #cv-skill-tag([Google Analytics])
-    #cv-skill-tag([Tableau Desktop])
-  ],
+  type: [Cloud & Architektur],
+  info: [Microsoft Azure (Zertifiziert) #h-bar() Docker #h-bar() REST APIs #h-bar() Terraform (Grundkenntnisse)],
 )
 
 #cv-skill(
-  type: [Persönliche Interessen],
-  info: [Schwimmen #h-bar() Kochen #h-bar() Lesen #h-bar() Fotografie],
+  type: [DevOps & Clean Code],
+  info: [CI/CD (Azure DevOps, Jenkins) #h-bar() Unit Testing #h-bar() Linting #h-bar() Git],
+)
+
+#cv-skill(
+  type: [BI & Visualisierung],
+  info: [Power BI (inkl. Zugangskontrolle) #h-bar() Tableau #h-bar() Management-Reporting],
+)
+
+#cv-skill(
+  type: [KI & Analytics],
+  info: [Generative AI Fundamentals (Databricks) #h-bar() Machine Learning (Kaggle) #h-bar() Statistik & Wahrscheinlichkeitstheorie],
+)
+
+#cv-skill(
+  type: [Sprachkenntnisse],
+  info: [Deutsch (Verhandlungssicher) #h-bar() Englisch (Verhandlungssicher) #h-bar() Russisch (Muttersprache) #h-bar() Kasachisch (Muttersprache)],
 )

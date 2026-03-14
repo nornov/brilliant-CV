@@ -1,39 +1,29 @@
 // Imports
-#import "@preview/brilliant-cv:3.2.0": cv-section, cv-skill, cv-skill-with-level, cv-skill-tag, h-bar
+#import "@preview/brilliant-cv:3.2.0": cv-section, cv-skill, cv-skill-tag, cv-skill-with-level, h-bar
 
 #cv-section("Kenntnisse & Weiterbildungen")
 
 #cv-skill(
   type: [Sprachen & Frameworks],
-  info: [Python #h-bar() PySpark #h-bar() SQL],
+  info: [Python (produktionsreif) #h-bar() PySpark #h-bar() SQL],
 )
 
 #cv-skill(
-  type: [ETL & Datenpipelines],
-  info: [Azure Data Factory (ADF) #h-bar() Databricks #h-bar() dbt #h-bar() ELT/ETL-Pipelines #h-bar() Schema-Mapping #h-bar() Data Quality Monitoring],
+  type: [Big Data & Pipelines],
+  info: [Apache Spark #h-bar() Azure Databricks #h-bar() Azure Data Factory #h-bar() ETL/ELT-Pipelines],
 )
 
 #cv-skill(
-  type: [Cloud & Plattformen],
-  info: [Microsoft Azure (Databricks, ADF, Blob Storage, DevOps) #h-bar() Zertifiziert: Azure Data Engineer Associate],
+  type: [Cloud & Architektur],
+  info: [Microsoft Azure (Zertifiziert) #h-bar() Docker #h-bar() REST APIs #h-bar() Terraform (Grundkenntnisse)],
 )
 
 #cv-skill(
-  type: [DevOps & Qualität],
-  info: [CI/CD-Automatisierung #h-bar() Unit Testing #h-bar() Git #h-bar() Code Reviews],
+  type: [DevOps & Clean Code],
+  info: [CI/CD (Azure DevOps, Jenkins) #h-bar() Unit Testing #h-bar() Linting #h-bar() Git],
 )
 
 #cv-skill(
-  type: [BI & Visualisierung],
-  info: [Power BI (inkl. Zugangskontrolle) #h-bar() Tableau #h-bar() Management-Reporting],
-)
-
-#cv-skill(
-  type: [KI & Analytics],
-  info: [Generative AI Fundamentals (Databricks) #h-bar() Machine Learning (Kaggle) #h-bar() Statistik & Wahrscheinlichkeitstheorie],
-)
-
-#cv-skill(
-  type: [Sprachkenntnisse],
-  info: [Deutsch (Verhandlungssicher) #h-bar() Englisch (Verhandlungssicher) #h-bar() Russisch (Muttersprache) #h-bar() Kasachisch (Muttersprache)],
+  type: [Sprachen & Tools],
+  info: [Deutsch (C2) #h-bar() Englisch (C1) #h-bar() Power BI / Tableau #h-bar() RAG / LangChain],
 )

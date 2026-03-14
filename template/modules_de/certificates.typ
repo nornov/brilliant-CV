@@ -1,26 +1,16 @@
 // Imports
 #import "@preview/brilliant-cv:3.2.0": cv-section, cv-honor
-#let metadata = toml("../metadata.toml")
-#let cv-section = cv-section.with(metadata: metadata)
-#let cv-honor = cv-honor.with(metadata: metadata)
 
-
-#cv-section("Zertifikate")
+#cv-section("Zertifizierungen")
 
 #cv-honor(
-  date: [2022],
-  title: [AWS: Zertifizierte Sicherheit],
-  issuer: [Amazon Web Services (AWS)],
-)
-
-#cv-honor(
-  date: [2017],
-  title: [Angewandte Datenwissenschaft mit Python],
-  issuer: [Coursera],
+  date: [],
+  title: [Azure Data Engineer Associate],
+  issuer: [Microsoft],
 )
 
 #cv-honor(
   date: [],
-  title: [SQL-Grundlagenkurs],
-  issuer: [Datacamp],
+  title: [Databricks Data Engineer Associate],
+  issuer: [Databricks],
 )

@@ -24,8 +24,8 @@ language = "en"
     font_size = "9pt"
 
     [layout.fonts]
-        regular_fonts = ["Source Sans 3", "Font Awesome 6 Brands", "Font Awesome 6 Free"]
-        header_font = "Roboto"
+        regular_fonts = ["Arial", "Helvetica", "Font Awesome 6 Brands", "Font Awesome 6 Free"]
+        header_font = "Arial"
 
     [layout.header]
         # Optional values: left, center, right
@@ -58,7 +58,7 @@ language = "en"
 
     # Decide if you want to inject keywords or not
     inject_keywords = true
-    injected_keywords_list = ["Data Analyst", "GCP", "Python", "SQL", "Tableau"]
+    injected_keywords_list = ["Python", "Spark", "Airflow", "Iceberg", "Kubernetes", "Clean Code", "CI/CD"]
 
 [personal]
     first_name = "Nursultan"
@@ -79,7 +79,7 @@ language = "en"
 # i.e. [[lang.ru]]
 # each section must contains the following fields
 [lang.de]
-    header_quote = "Data Engineer | MS Azure, Databricks & ETL Expert"
+    header_quote = "Data Engineer | Python · Big Data · Cloud-native Architekturen"
     cv_footer = "Lebenslauf"
     letter_footer = "Anschreiben"
 

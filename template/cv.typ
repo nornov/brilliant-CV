@@ -27,10 +27,8 @@
 )
 
 #import-modules((
-  "education",
   "professional",
-  "projects",
-  "certificates",
-  "publications",
+  "education",
   "skills",
+  "certificates",
 ))

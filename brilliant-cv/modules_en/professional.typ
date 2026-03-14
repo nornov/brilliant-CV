@@ -1,5 +1,5 @@
 // Imports
-#import "@preview/brilliant-cv:3.2.0": cv-section, cv-entry
+#import "@preview/brilliant-cv:3.2.0": cv-entry, cv-section
 
 #cv-section("Work Experience")
 
@@ -7,7 +7,7 @@
   title: [Data Engineer, Analytics & Infrastructure],
   society: [Daimler Truck AG],
   date: [02/2023 – Present],
-  location: [Germany],
+  location: [Stuttgart, Germany],
   description: list(
     [Pipeline Architecture (User Event Data): Architected and managed fault-tolerant ETL pipelines using PySpark on Databricks to ingest high-frequency IoT event data (telemetry) from the global fleet.],
     [Canonical Datasets: Developed the "Single Source of Truth" (canonical datasets) for vehicle energy consumption, enabling Product and Finance teams to track key performance metrics and fleet usage growth.],
@@ -23,7 +23,7 @@
   title: [Simulation Engineer (Synthetic Data Generation)],
   society: [Daimler Truck AG],
   date: [09/2019 – 01/2023],
-  location: [Germany],
+  location: [Stuttgart, Germany],
   description: list(
     [Modeling & Simulation: Developed Python-based simulation frameworks to validate complex electrical systems. Integrated physical models with large-scale data analysis to drive algorithmic improvements in EV charging.],
     [Trusted Datasets: Translated complex engineering requirements into durable, well-modeled datasets for cross-functional squads of analysts and researchers.],
@@ -34,7 +34,7 @@
   title: [Resident Engineer (System Integration and testing)],
   society: [Valeo Siemens eAutomotive GmbH],
   date: [02/2018 – 08/2019],
-  location: [Germany],
+  location: [Stuttgart, Germany],
   description: list(
     [Stakeholder Management: Led technical communication with clients, translating complex engineering requirements into actionable data tasks—demonstrating the ability to collaborate across the organization from engineers to leadership.],
   ),

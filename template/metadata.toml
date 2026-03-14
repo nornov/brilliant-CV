@@ -21,10 +21,10 @@ language = "en"
     #date_width = "3.6cm"
 
     # Optional: sets the font size for the content text
-    #font_size = "9pt"
+    font_size = "9pt"
 
     [layout.fonts]
-        regular_fonts = ["Source Sans 3"]
+        regular_fonts = ["Source Sans 3", "Font Awesome 6 Brands", "Font Awesome 6 Free"]
         header_font = "Roboto"
 
     [layout.header]
@@ -58,40 +58,20 @@ language = "en"
 
     # Decide if you want to inject keywords or not
     inject_keywords = true
-    injected_keywords_list = ["Data Analyst", "GCP", "Python", "SQL", "Tableau"]
+    injected_keywords_list = ["Python", "Spark", "Airflow", "Iceberg", "Kubernetes", "Clean Code", "CI/CD"]
 
 [personal]
-    first_name = "John"
-    last_name = "Doe"
+    first_name = "Nursultan"
+    last_name = "ORNOV"
 
     # The order of this section will affect how the entries are displayed
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
-        github = "yunanwg"
-        phone = "+33 6 12 34 56 78"
-        email = "john.doe@me.org"
-        linkedin = "johndoe"
-        gitlab = "yunanwg"
-        homepage = "johndoe.dev"
-        orcid = "0000-0000-0000-0000"
-        # researchgate = "John-Doe"
-        location = "San Francisco, CA"
-        # extraInfo = "Available for remote work"
+        phone = "+491774299129"
+        email = "nursultan.ornov@gmail.com"
+        linkedin = "nursultan-ornov"
+        location = "Stuttgart, Germany"
         
-        # Custom info with awesome icon
-        [personal.info.custom-1]
-            awesomeIcon = "graduation-cap" # See https://typst.app/universe/package/fontawesome/
-            text = "PhD in Data Science"
-            link = "https://www.example.com"
-
-        # Custom info with image icon
-        # To use a custom image icon, pass it via custom-icons in cv.typ:
-        #   custom-icons: ("custom-2": image("assets/my-icon.png"))
-        [personal.info.custom-2]
-            awesomeIcon = "certificate"
-            text = "AWS Certified"
-            link = "https://aws.amazon.com/certification/"
-            
         # Linebreak example - adds a line break in header info
         # linebreak = ""
 
@@ -99,12 +79,12 @@ language = "en"
 # i.e. [[lang.ru]]
 # each section must contains the following fields
 [lang.de]
-    header_quote = "Erfahrener Datenanalyst sucht ab sofort eine Vollzeitstelle"
+    header_quote = "Data Engineer | Python · Big Data · Cloud-native Architekturen"
     cv_footer = "Lebenslauf"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Experienced Data Analyst looking for a full time job starting from now"
+    header_quote = "Data Engineer with 3+ years of experience in distributed systems, PySpark optimization, and Applied AI. Specializes in building fault-tolerant pipelines."
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 

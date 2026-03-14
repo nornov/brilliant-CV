@@ -1,32 +1,24 @@
 // Imports
 #import "@preview/brilliant-cv:3.2.0": cv-section, cv-entry, h-bar
-#let metadata = toml("../metadata.toml")
-#let cv-section = cv-section.with(metadata: metadata)
-#let cv-entry = cv-entry.with(metadata: metadata)
 
-
-#cv-section("Abschlüsse")
+#cv-section("Ausbildung")
 
 #cv-entry(
-  title: [Master of Data Science],
-  society: [Universität von Kalifornien, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
-  logo: image("../assets/logos/ucla.png"),
+  title: [Master of Science, Elektrotechnik],
+  society: [RWTH Aachen],
+  date: [10/2015 – 11/2017],
+  location: [Aachen, Deutschland],
   description: list(
-    [Dissertation: Vorhersage der Kundenabwanderung in der Telekommunikationsbranche mit Hilfe von Algorithmen des maschinellen Lernens und Netzwerkanalyse],
-    [Kurs: Big-Data-Systeme und -Technologien #h-bar() Data Mining und Exploration #h-bar() Natural Language Processing],
+    [Note: 1,4 #h-bar() Schwerpunkte: Leistungselektronik, Elektrische Antriebe],
   ),
 )
 
 #cv-entry(
-  title: [Bachelors of Science in Informatik],
-  society: [Universität von Kalifornien, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
-  logo: image("../assets/logos/ucla.png"),
+  title: [Bachelor of Engineering, Elektrotechnik],
+  society: [Nasarbajew-Universität],
+  date: [08/2010 – 05/2015],
+  location: [Astana, Kasachstan],
   description: list(
-    [Dissertation: Erforschung des Einsatzes von Algorithmen des maschinellen Lernens zur Vorhersage von Aktienkursen: Eine vergleichende Studie von Regressions- und Zeitreihenmodellen],
-    [Kurs: Datenbanksysteme #h-bar() Rechnernetze #h-bar() Softwaretechnik #h-bar() Künstliche Intelligenz],
+    [GPA: 3.75 #h-bar() Schwerpunkte: Leistungselektronik],
   ),
 )
