@@ -27,34 +27,7 @@ description: >
 **CRITICAL RULE:** Nursultan has ~2 years as Data Engineer, ~7 years total professional experience.  
 Never write "7 years of Data Engineering experience". Write "2 Jahre als Data Engineer, ergänzt durch 5 Jahre ingenieurwissenschaftliche Erfahrung mit starkem Datenfokus" or similar honest framing.
 
-### Verified Achievements (Use Exactly These Numbers)
-
-- Jährliche Kosteneinsparung: **470.000 €**
-- Deployment-Zyklen verkürzt: **>80 %** (von 2 Stunden auf 15 Minuten)
-
-### Certifications (Confirmed)
-
-- Azure Data Engineer Associate (Microsoft)
-- Databricks Data Engineer Associate
-
-### Education
-
-- M.Sc. Elektrotechnik, RWTH Aachen — Note **1,4** (10/2015 – 11/2017)
-- B.Eng. Elektrotechnik, Nasarbajew-Universität Astana — GPA **3,75** (08/2010 – 05/2015)
-
-### Full Verified Skill Inventory
-
-| Kategorie | Kenntnisse                                                                       |
-| --------- | -------------------------------------------------------------------------------- |
-| Sprachen  | Python (produktionsreif), PySpark, SQL                                           |
-| Pipelines | Azure Databricks, Azure Data Factory, dbt, Apache Spark, Hadoop                  |
-| Cloud     | Azure (zertifiziert), GCP (Grundkenntnisse), Docker, Terraform (Grundkenntnisse) |
-| DevOps    | CI/CD (Azure DevOps, Jenkins), Git, Unit Testing, Linting                        |
-| APIs      | REST APIs, FastAPI (Grundkenntnisse)                                             |
-| Search    | Elasticsearch / OpenSearch (Grundkenntnisse)                                     |
-| ML & KI   | Scikit-learn, Anomalieerkennung, Zeitreihenanalyse, RAG, LangChain               |
-| BI        | Power BI, Tableau                                                                |
-| Sprachen  | Deutsch C2, Englisch C1, Russisch (Muttersprache), Kasachisch (Muttersprache)    |
+**Reference:** look into template modules `template\modules_en` and `template\modules_de` for the full description of educational and professional background.
 
 ---
 
@@ -347,14 +320,7 @@ typst watch brilliant-cv/cv.typ --input language=de output_cvs/preview.pdf --fon
 
 ### Step 0: Analyse the job posting
 
-Identify:
-
-- [ ] Archetype (A / B / C / D)
-- [ ] Must-have skills (extract keywords verbatim)
-- [ ] Language of the posting
-- [ ] Seniority level (Mid / Senior / Lead)
-- [ ] Domain (Automotive, Finance, Retail, FinTech…)
-- [ ] Special notes (Schweiz → salary expectation, remote proportion)
+Job description is provided as a structured markdown file.
 
 ### Step 1: Read existing files
 
@@ -365,6 +331,8 @@ Always read before editing:
 - [ ] `brilliant-cv/cv.typ` — which modules are active
 - [ ] `template/modules_de/professional.typ` — full list of bullet points per position in german
 - [ ] `template/modules_en/professional.typ` — full list of bullet points per position in english
+- [ ] `template/modules_de/skills.typ` — full list of skills and interests in german
+- [ ] `template/modules_en/skills.typ` — full list of skills and interests in english
 
 ### Step 2: Update `metadata.toml`
 
@@ -372,15 +340,17 @@ Always read before editing:
 - Update `injected_keywords_list` to match JD keywords
 - Leave all layout, font, and personal.info fields untouched
 
-### Step 3: Rewrite `professional.typ` bullets using the full list of bullet points per position in the template files
+### Step 3: Rewrite `professional.typ` bullets using the full list of bullet points per position in the template files.
 
+- Collect bullets from both template files (german and english) and choose the most relevant ones for the job description
 - Prioritize bullets per archetype strategy above
-- Keep bullet format: **[Was] + [Wie] + [Ergebnis/Technologie]**
+- Keep bullet format: **[What] + [How] + [Result/Technology]**
 - Use only verified numbers (470.000 € and >80%)
 
 ### Step 4: Reorder `skills.typ`
 
 - Front-load JD-matched skills within each `cv-skill` row
+- Do not include skills that are not relevant to the job description
 - Drop irrelevant sections to preserve 1-page constraint
 
 ### Step 5: Compile & Quality Assurance (QA) Verification
@@ -389,7 +359,7 @@ Before finalizing, **you MUST rigorously verify** the following:
 
 - **1-Page Limit (Strict):**
   - Run the compile command (§5). If the PDF exceeds 1 page, _you must fix it._
-  - _Fix:_ Trim older/irrelevant jobs, keep max 3-4 highly impactful bullets per role, and merge or drop lower-tier skill rows.
+  - _Fix:_ remove interests section from skills.typ and try again. Review until the resume is looking good and is ATS compatible.
 - **ATS Compatibility:**
   - Verify that EXACT keywords from the JD are populated in `metadata.toml` (`injected_keywords_list`).
   - Standard naming convention MUST be followed for the output file.
@@ -397,6 +367,7 @@ Before finalizing, **you MUST rigorously verify** the following:
   - Check the PDF visually: ensure there is no text overflow, symbols display correctly, and the photo is visible.
   - Bullets must not be "walls of text". They should start with strong action verbs and highlight quantifiable metrics (e.g., "470.000 €", ">80%"). Whitespace is crucial for a aesthetically pleasing, premium look.
 - **Save:** Use the correct filename convention.
+- **Review visually:** Ensure there is no text overflow, symbols display correctly, resume is on one page. If not, fix until the resume is looking good and is ATS compatible.
 
 ---
 
@@ -415,6 +386,8 @@ Before finalizing, **you MUST rigorously verify** the following:
 | Zeiträume ändern (Jobs oder Studium, `date`)      | **NIEMALS** — alle Datumsangaben sind unveränderliche Fakten           |
 | Jobtitel komplett erfinden                        | Leichte Anpassung ok (z.B. „Analytics" ↔ „Data Analytics"), kein Lügen |
 | Alle Bullets auflisten, auch irrelevante          | Nur JD-relevante Bullets behalten — nicht passende ENTFERNEN           |
-| Typst-Syntax aus dem Gedächtnis                   | Immer `typst-author` Skill konsultieren bei Syntaxfragen               |
-| 2-seitiger Output                                 | Max 5 Bullets pro Rolle, skills kompaktieren                           |
-| Emoji/Unicode in metadata.toml                    | Nur strukturierte Felder (phone, email, linkedin) nutzen               |
+
+| 2-seitiger Output | Max 5 Bullets pro Rolle, skills kompaktieren |
+| Emoji/Unicode in metadata.toml | Nur strukturierte Felder (phone, email, linkedin) nutzen |
+| Avoid general formulations like: "Ganzheitliche Verantwortung im Software-Development-Lifecycle – von der Architektur-Konzeption über Entwicklung bis zum ausfallsicheren Betrieb." | Use data domain specific examples and technologies instead: "Ganzheitliche Verantwortung von Analytics- & ML-Projekten – von der Anforderungen Definition über Entwicklung bis zum Deployment und Monitoring.". |
+| Avoid mentioning FinOps or anything unrelated to data engineering if not explicitly mentioned in the job description. Bad Example: "Business Value & FinOps: Identifikation von Effizienzpotenzialen in der Cloud-Infrastruktur und Reduktion technischer Schulden, was zu jährlichen Einsparungen von 470.000 € führte." | Present financial benefits in the context of data engineering projects. Good Example: Spark Optimization: Refactored legacy jobs using advanced techniques (Z-Ordering, Partitioning, Broadcast Joins, Stratified Sampling), reducing latency by 85% and costs by €470k/year. |
