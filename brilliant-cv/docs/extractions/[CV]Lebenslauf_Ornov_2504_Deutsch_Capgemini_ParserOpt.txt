@@ -1,0 +1,122 @@
+Nursultan 
+ORNOV 
+ 
+ 
+Telefon: +49 177 4299129 
+Email: nursultan.ornov@gmail.com 
+Plochinger Str. 58 - 73730 Esslingen 
+Profil  
+ 
+Erfahrener Data Spezialist mit Fokus auf Cloud-basierte Datenplattformen, Databricks Lakehouse-
+Architekturen und Advanced Analytics. Mehrjährige Erfahrung in der Durchführung komplexer 
+Datenprojekte in der Automobilbranche, inklusive Aufbau skalierbarer ETL-Pipelines, Entwicklung 
+von Zeitreihen-Datenprodukten und Entwicklung eines KI-Chatbots. Erfolgreich in der bereichs- und 
+standortsübergreifenden Zusammenarbeit mit Entwicklungsteams und Stakeholdern auf 
+verschiedenen Management-Ebene. 
+ 
+Beruflicher Werdegang 
+ 
+02/2023 – heute 
+Daimler Truck AG 
+Data Engineer / Data Scientist 
+• 
+Optimierung der Infrastruktur zur Erstellung skalierbarer ETL-Pipelines auf Databricks durch 
+Automatisierung und CI/CD-Integration in Azure DevOps; erzielte eine jährliche Kostenreduktion 
+von 470.000 € und verkürzte die Deployment-Zeit um 80 %. 
+ 
+• 
+Aufbau eines internen Kompetenzzentrums zur Analyse des realen Energieverbrauchs von 
+Kundenfahrzeugen mit Fokus auf datenbasierte Entscheidungsunterstützung; regelmäßige 
+Präsentationen der Ergebnisse auf Senior-Management-Ebene. 
+ 
+• 
+Bereitstellung skalierbarer Zeitserien-Datenprodukte für Entwicklungs- und Vertriebsteams zur 
+Verbesserung datengetriebener Entscheidungen. 
+ 
+• 
+Entwicklung eines KI-Chatbots basierend auf Retrieval-Augmented Generation (RAG) und 
+LangChain zur dialogbasierten Abfrage interner GitHub-Repositories; unterstützte das 
+Wissensmanagement und beschleunigte das Onboarding neuer Datenanalysten. 
+ 
+09/2019 – 01/2023 Daimler Truck AG 
+Berechnungsingeniuer für HV/LV Systeme  
+• 
+Aufbau einer innovativen Simulationsmethode in der Entwicklungsorganisation für das 
+Gesamtfahrzeugmodell mit Schwerpunkt auf der Analyse des Energieverbrauchs.  
+ 
+• 
+Rechnerische Absicherung der optimierten Ladefunktionen in Elektrofahrzeugen durch die 
+Kombination von Simulations- und Datenanalysefähigkeiten. 
+ 
+02/2018 – 08/2019 Valeo Siemens eAutomotive GmbH  
+Resident-Ingenieur bei Daimler AG 
+• 
+Verantwortung für die technische Kommunikation mit Kunden, um die Kluft zwischen den 
+Kundenanforderungen und dem internen Entwicklungsteam zu überbrücken. 
+ 
+• 
+Sicherstellung der Einhaltung von Projektzeitplänen durch Engagement und Flexibilität bei der 
+Inbetriebnahme elektrischer Antriebe auf Prüfständen und in Testfahrzeugen. 
+ 
+ 
+Ausbildung  
+ 
+10/2015 – 11/2017 RWTH Aachen, Aachen, Deutschland   
+Studiengang: Elektrotechnik 
+Abschluss: Master of Science, Note: 1,4 
+Schwerpunkte: Leistungselektronik, Elektrische Antriebe 
+08/2010 – 05/2015 Nasarbajew-Universität, Astana, Kasachstan   
+Studiengang: Elektrotechnik 
+Abschluss: Bachelor of Engineering, GPA: 3.75 (~= 1-)  
+Schwerpunkte: Leistungselektronik 
+ 
+Kenntnisse & Weiterbildungen 
+ 
+Programmierung  
+Python, PySpark, SQL, Git, REST APIs 
+ 
+Big Data & DevOps 
+Apache Spark, Hadoop, Power BI, CI/CD, Azure Data Factory, Azure DevOps, Docker (User), 
+Terraform (Grundkenntnisse), Infrastructure as Code (Grundkenntnisse) 
+ 
+ 
+Cloud & Plattformen 
+Azure, Databricks, AWS (Grundkenntnisse) 
+ 
+Machine Learning & KI 
+Retrieval-Augmented Generation (RAG), Scikit-learn, Zeitreihenanalyse, Anomalie-Erkennung, 
+Data Science Bootcamp (Udemy) 
+ 
+Sprachkenntnisse 
+ 
+Englisch  
+ 
+ 
+verhandlungssicher  
+Deutsch  
+ 
+ 
+verhandlungssicher 
+Python 
+ 
+ 
+verhandlungssicher 😉 
+Russisch  
+ 
+ 
+Muttersprache 
+Kasachisch   
+ 
+Muttersprache  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Esslingen, den 29/03/2025 
+ 
+mein LinkedIn-Profil 

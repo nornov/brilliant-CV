@@ -24,8 +24,8 @@ language = "en"
     font_size = "9pt"
 
     [layout.fonts]
-        regular_fonts = ["Source Sans 3", "Font Awesome 6 Brands", "Font Awesome 6 Free"]
-        header_font = "Roboto"
+        regular_fonts = ["Arial"]
+        header_font = "Arial"
 
     [layout.header]
         # Optional values: left, center, right

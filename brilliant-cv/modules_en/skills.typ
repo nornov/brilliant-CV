@@ -1,29 +1,17 @@
 // Imports
-#import "@preview/brilliant-cv:3.2.0": cv-section, cv-skill, cv-skill-with-level, cv-skill-tag, h-bar
+#import "@preview/brilliant-cv:3.2.0": cv-section, h-bar
 
 #cv-section("Skills")
 
-#cv-skill(
-  type: [Core Engineering],
-  info: [Python (Expert) #h-bar() SQL #h-bar() PySpark #h-bar() Scala (Basic) #h-bar() Data Structures & Algorithms],
-)
+- *Data Engineering:* Python (Expert), SQL, PySpark, Apache Spark, Scala (Basic)
+- *Cloud & Architecture:* Microsoft Azure, S3 / Blob Storage, Docker
+- *Orchestration & DevOps:* Azure Data Factory, Databricks Workflows (Airflow eq.), CI/CD (Azure DevOps), Git
+- *BI & Analytics:* Delta Lake, Data Structures & Algorithms
+- *Applied AI & Safety:* ML Anomaly Detection, RAG, Synthetic Data Generation
+- *Certifications:* Azure Data Engineer Associate (Microsoft), Databricks Data Engineer Associate
 
-#cv-skill(
-  type: [Distributed Systems],
-  info: [Spark #h-bar() Databricks #h-bar() Delta Lake #h-bar() Azure Data Factory (ADF) #h-bar() S3/Blob Storage],
-)
-
-#cv-skill(
-  type: [Orchestration & Ops],
-  info: [Databricks Workflows (Airflow eq.) #h-bar() CI/CD (Azure DevOps) #h-bar() Docker],
-)
-
-#cv-skill(
-  type: [Applied AI & Safety],
-  info: [ML Anomaly Detection #h-bar() RAG #h-bar() Synthetic Data Generation],
-)
-
-#cv-skill(
-  type: [Languages],
-  info: [English (Full professional) #h-bar() German (Full professional) #h-bar() Russian (Native) #h-bar() Kazakh (Native)],
-)
+#cv-section("Languages")
+- #box(width: 65pt)[*German*] *Full professional*
+- #box(width: 65pt)[*English*] *Full professional*
+- #box(width: 65pt)[Russian] Native
+- #box(width: 65pt)[Kazakh] Native

@@ -30,5 +30,4 @@
   "professional",
   "education",
   "skills",
-  "certificates",
 ))

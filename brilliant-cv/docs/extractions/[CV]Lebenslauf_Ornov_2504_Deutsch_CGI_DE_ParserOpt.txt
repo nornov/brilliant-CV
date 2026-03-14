@@ -1,0 +1,119 @@
+Nursultan 
+ORNOV 
+ 
+ 
+Telefon: +49 177 4299129 
+Email: nursultan.ornov@gmail.com 
+Plochinger Str. 58 - 73730 Esslingen 
+Profil  
+ 
+Erfahrener Data Engineer mit Fokus auf Cloud-basierte Datenarchitekturen und datengetriebene 
+Lösungen auf Databricks und Azure. Fundierte Expertise in der Konzeption und Implementierung 
+skalierbarer ETL-Pipelines sowie CI/CD-Prozesse mit Azure DevOps. Mehrjährige praktische 
+Erfahrung in der Durchführung von Data-Analytics-Projekten in der Automobilindustrie. 
+ 
+Beruflicher Werdegang 
+ 
+02/2023 – heute 
+Daimler Truck AG 
+Data Engineer / Data Scientist 
+• 
+Design und Implementierung skalierbarer ETL-Pipelines auf Databricks zur Optimierung der 
+Datenverarbeitung und -analyse, einschließlich CI/CD-Integration über Azure DevOps, die zu 
+einer Reduktion der Betriebskosten um 470.000 € jährlich und einer 80%igen Verkürzung der 
+Deployment-Zeit führte. 
+ 
+• 
+Etablierung eines internen Kompetenzzentrums für die Analyse des realen Energieverbrauchs 
+von Fahrzeugen, mit regelmäßigen Präsentationen der Ergebnisse auf Senior-Management-
+Ebene. 
+ 
+• 
+Entwicklung von wirkungsvollen Datenprodukten und Analysen zur Unterstützung von 
+Produktentwicklung und Vertrieb. 
+ 
+• 
+Implementierung eines KI-Chatbots zur dialogbasierten Abfrage interner GitHub-Repo basierend 
+auf RAG und LangChain, wodurch Verbesserung des Wissensmanagements und Onboarding-
+Prozesses erzielt wurde. 
+ 
+09/2019 – 01/2023 Daimler Truck AG 
+Berechnungsingeniuer für HV/LV Systeme  
+• 
+Entwicklung und Einführung einer innovativen Simulationsmethode zur Analyse des 
+Energieverbrauchs von Elektrofahrzeugen und deren Ladefunktionen unter Verwendung von 
+Simulations- und Datenanalyse-Techniken.  
+ 
+• 
+Durchführung von datenanalytischen Studien zur Absicherung der Ladefunktionen und 
+Optimierung des Gesamtfahrzeugmodells. 
+ 
+02/2018 – 08/2019 Valeo Siemens eAutomotive GmbH  
+Resident-Ingenieur bei Daimler AG 
+• 
+Leitung der technischen Kommunikation zwischen Kunden und internen Teams zur 
+Sicherstellung der Kundenzufriedenheit und Einhaltung von Projektanforderungen. 
+ 
+• 
+Sicherstellung der termingerechten Lieferung durch flexible und lösungsorientierte 
+Implementierungen von elektrischen Antrieben und Testsystemen.  
+ 
+ 
+Ausbildung  
+ 
+10/2015 – 11/2017 RWTH Aachen, Aachen, Deutschland   
+Studiengang: Elektrotechnik 
+Abschluss: Master of Science, Note: 1,4 
+Schwerpunkte: Leistungselektronik, Elektrische Antriebe 
+08/2010 – 05/2015 Nasarbajew-Universität, Astana, Kasachstan   
+Studiengang: Elektrotechnik 
+Abschluss: Bachelor of Engineering, GPA: 3.75 (~= 1-)  
+Schwerpunkte: Leistungselektronik 
+ 
+Kenntnisse & Weiterbildungen 
+ 
+Cloud & Plattformen 
+• Azure: Databricks, Azure Data Factory, Azure Synapse, Azure DevOps, Power BI 
+• Cloud-Architekturen: Data Lake, Data Lakehouse, Data Warehouse 
+ 
+Big Data & DevOps 
+• Apache Spark, Hadoop 
+• CI/CD: Jenkins, Azure DevOps, Docker (User) 
+• Infrastructure as Code: Terraform (Grundkenntnisse) 
+ 
+Programmiersprachen & Tools 
+• Python, PySpark, SQL, REST APIs, Git, Test-Driven Development 
+ 
+Machine Learning & KI 
+• Scikit-learn, Anomalie-Erkennung, Zeitreihenanalyse 
+• Retrieval-Augmented Generation (RAG), Langchain 
+ 
+Zertifizierungen 
+• Azure Data Engineer Associate (DP-203) 
+• Databricks Generative AI Solution Development 
+ 
+ 
+Sprachkenntnisse 
+ 
+Englisch  
+ 
+ 
+verhandlungssicher  
+Deutsch  
+ 
+ 
+verhandlungssicher 
+Russisch  
+ 
+ 
+Muttersprache 
+Kasachisch   
+ 
+Muttersprache  
+ 
+ 
+ 
+ 
+Esslingen, den 29/04/2025 
+ 
+mein LinkedIn-Profil 

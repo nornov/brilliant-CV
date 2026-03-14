@@ -1,0 +1,117 @@
+Nursultan 
+ORNOV 
+ 
+ 
+Telefon: +49 177 4299129 
+Email: nursultan.ornov@gmail.com 
+Weimarer Str. 32 - 73730 Esslingen 
+ 
+Data Engineer & Data Scientist 
+ 
+Analytisch denkender Data Engineer und Data Scientist mit einem starken quantitativen Hintergrund 
+(M.Sc. Elektrotechnik) und über 3 Jahren praxisnaher Erfahrung im Design und Neuaufbau moderner 
+Datenplattformen. Spezialisiert auf Cloud-Technologien, den ELT-Ansatz sowie die Entwicklung von 
+Machine-Learning-Modellen. Erfahren in der engen Zusammenarbeit mit Fachbereichen und dem 
+Management, um komplexe Daten (wie Zeitreihen und Finanzkennzahlen) für Reporting, Advanced 
+Analytics und datengetriebene Entscheidungen bereitzustellen. 
+ 
+Beruflicher Werdegang 
+ 
+02/2023 – heute 
+Daimler Truck AG 
+Data Analytics Engineer / Data Scientist 
+ 
+• Neuaufbau moderner Datenplattformen: Design, Aufbau und Weiterentwicklung von 
+skalierbaren Datenpipelines auf Azure/Databricks. Implementierung eines modernen ELT-
+Ansatzes zur Strukturierung und Modellierung hochfrequenter Zeitreihen- und Telemetriedaten. 
+ 
+• Machine Learning & Advanced Analytics: Entwicklung und produktive Anwendung von ML-
+Modellen (z.B. Algorithmen zur Anomalieerkennung und Generative AI). Sicherstellung der 
+Datenqualität als Basis für verlässliche Analyse- und Reportinganwendungen. 
+ 
+• Bereitstellung für Reporting & Fachbereiche: Enge, interdisziplinäre Zusammenarbeit mit 
+Management- und Fachbereichen. Bereitstellung von strukturierten Datenmodellen und 
+Dashboards zur strategischen Steuerung. 
+ 
+• Finance & Optimierung: Eigenverantwortliche Kostenevaluierung der Cloud-Infrastruktur. 
+Reduzierung der jährlichen Compute- und Speicherkosten um 470.000 € durch CI/CD-Integration 
+und Pipeline-Optimierung. 
+ 
+09/2019 – 01/2023 Daimler Truck AG 
+Data Scientist & Berechnungsingenieur (Systemmodellierung) 
+ 
+• Datenmodellierung & Extraktion: Extraktion, Aufbereitung und Integration massiver Test- und 
+Sensordaten aus verteilten Quellsystemen in zentrale analytische Datenbanken. 
+ 
+• Quantitative Modelle: Entwicklung komplexer, datengetriebener Modelle zur Analyse von 
+Energieverbrauch und Risikoszenarien. Anwendung statistischer Methoden zur rechnerischen 
+Absicherung kritischer Systeme. 
+ 
+ 
+ 
+ 
+02/2018 – 08/2019 Valeo Siemens eAutomotive GmbH  
+Resident-Ingenieur bei Daimler AG 
+• Requirements Engineering: Übersetzung komplexer fachlicher Anforderungen in technische 
+Daten- und Testkonzepte; fungierte als Bindeglied zwischen Kunden, Management und den 
+Entwicklerteams. 
+ 
+Ausbildung  
+ 
+10/2015 – 11/2017 RWTH Aachen, Aachen, Deutschland   
+Studiengang: Elektrotechnik 
+Abschluss: Master of Science, Note: 1,4 
+Schwerpunkte: Leistungselektronik, Elektrische Antriebe 
+ 
+06/2013 – 07/2013 University College London, Großbritanien 
+ 
+ 
+ 
+Summer School 
+ 
+ 
+ 
+Schwerpunkte: Business, Critical Thinking 
+ 
+08/2010 – 05/2015 Nasarbajew-Universität, Astana, Kasachstan   
+Studiengang: Elektrotechnik 
+Abschluss: Bachelor of Engineering, GPA: 3.75 (~= 1-)  
+Schwerpunkte: Leistungselektronik 
+ 
+ 
+Kenntnisse & Weiterbildungen 
+ 
+Programmierung & Datenbanken: Python (Sehr gut), SQL (Sehr gut, Fokus auf komplexe 
+Abfragen & Datenmodellierung). 
+ 
+Data Engineering & Architektur: ELT-Ansatz, Datenmodellierung, Databricks, Azure Data Factory, 
+CI/CD-Automatisierung. Konzeptionelle Vertrautheit mit Snowflake und der Integration von ERP-
+Daten (z.B. SAP). 
+ 
+Data Science & ML: Machine Learning (Predictive Analytics, Anomalieerkennung), Advanced 
+Analytics, Generative AI. 
+ 
+ 
+Sprachkenntnisse 
+ 
+Deutsch  
+ 
+ 
+verhandlungssicher (C1+) 
+Englisch  
+ 
+ 
+verhandlungssicher (C1+) 
+Russisch  
+ 
+ 
+Muttersprache 
+Kasachisch   
+ 
+Muttersprache  
+ 
+ 
+ 
+Esslingen, den 20/01/2026 
+ 
+mein LinkedIn-Profil 

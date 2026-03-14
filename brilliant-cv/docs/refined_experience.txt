@@ -1,0 +1,78 @@
+=== POSITION: Data Engineer, Analytics & Infrastructure: Daimler Truck AG ===
+  [EN]
+  - Canonical Datasets: Developed the "Single Source of Truth" (canonical datasets) for vehicle
+  - Data Safety & Integrity: Designed Anomaly Detection systems within the ingestion layer to flag
+  - GenAI / RAG Implementation: Built an internal "Coding Copilot" for the engineering team.
+  - Pipeline Architecture (User Event Data): Architected and managed fault-tolerant ETL pipelines
+  - Security & Governance: Enforced strict data compliance (GDPR) and Role-Based Access
+  - Spark Optimization: Refactored legacy jobs using advanced Spark techniques
+  - Data Quality: Implemented data quality framework for monitoring and ensuring the quality of time-series data
+  
+  [DE]
+  - Bereitstellung für Reporting & Fachbereiche: Enge, interdisziplinäre Zusammenarbeit mit
+  - Business Value & FinOps: Identifikation von Effizienzpotenzialen in der Cloud-Infrastruktur,
+  - Data Products: Bereitstellung hochverfügbarer Datenprodukte für Sales-Kampagnen und die
+  - Datenmodellierung & Extraktion: Extraktion, Aufbereitung und Integration massiver Test- und
+  - Datenqualität & Automatisierung: Etablierung automatisierter Testroutinen und CI/CD-
+  - ELT-Pipeline Entwicklung & Optimierung: Verantwortung für performante ELT-Prozesse auf
+  - Finance & Optimierung: Eigenverantwortliche Kostenevaluierung der Cloud-Infrastruktur.
+  - Leadership & Vision: Initiierung und Aufbau eines internen Kompetenzzentrums für realen
+  - Machine Learning & Advanced Analytics: Entwicklung und produktive Anwendung von ML-
+  - Neuaufbau moderner Datenplattformen: Design, Aufbau und Weiterentwicklung von
+  - Pipeline-Orchestrierung: Radikale Verkürzung der Deployment-Zyklen von 2 Stunden auf 15
+  - Power BI Dashboards & Reporting: Bereitstellung zugangskontrollierter Power BI Dashboards
+  - Produktentwicklung: Bereitstellung von hochverfügbaren Zeitserien-Datenprodukten für Sales-
+  - Quantitative Modelle: Entwicklung komplexer, datengetriebener Modelle zur Analyse von
+  - Stakeholder Management & Data Culture: Aufbau und Leitung eines internen „Center of
+  - Strategische Kostenoptimierung: Steigerung der Effizienz durch Automatisierung und CI/CD-
+  [Skills]
+  - Apache Spark, Hadoop
+  - Azure Data Engineer Associate (DP-203)
+  - Azure: Azure Data Factory, Azure Synapse, Azure DevOps, Databricks
+  - Azure: Databricks, Azure Data Factory, Azure Synapse, Azure DevOps, Power BI
+  - CI/CD: Jenkins, Azure DevOps, Docker (User)
+  - Cloud-Architekturen: Data Lake, Data Lakehouse, Data Warehouse
+  - Databricks Generative AI Solution Development
+  - Infrastructure as Code: Terraform (Grundkenntnisse)
+  - Python, PySpark, SQL, REST APIs, Git, Test-Driven Development
+  - Retrieval-Augmented Generation (RAG), Langchain
+  - Scikit-learn, Anomalie-Erkennung, Zeitreihenanalyse
+
+=== POSITION: Simulation Engineer (Synthetic Data Generation): Daimler Truck AG ===
+  [EN]
+  - Modeling & Simulation: Developed Python-based simulation frameworks to validate complex
+  - Trusted Datasets: Translated complex engineering requirements into durable, well-modeled
+  [DE]
+  - Data-Driven Engineering: Kombination von Simulation und Datenanalyse zur rechnerischen
+  - Systemmodellierung: Entwicklung komplexer Simulink-Modelle zur Analyse des
+
+
+=== POSITION: Resident Engineer ===
+  [EN]
+  - Stakeholder Management: Led technical communication with clients, translating complex
+  [DE]
+  - Projekt-Exzellenz: Sicherstellung kritischer Meilensteine bei der Inbetriebnahme elektrischer
+  - Projektsteuerung: Sicherstellung der Datenverfügbarkeit und Qualität bei kritischen
+  - Requirements Engineering: Technische Schnittstelle zwischen Kundenanforderungen und
+  - Requirements Engineering: Übersetzung komplexer fachlicher Anforderungen in technische
+  - Schnittstellenmanagement: Technische Kommunikation zwischen Kundenanforderungen und
+
+
+
+
+
+
+
+
+
+=== POSITION: Data Modeling & Simulation Engineer ===
+  [EN]
+  [DE]
+  - Analytics & Trendanalyse: Durchführung datengestützter Analysen zur Absicherung von
+  - Data-Driven Engineering & Analytics: Datengestützte Analysen und Anomalie-Erkennung in
+  - Datenmodellierung: Entwicklung komplexer Modelle zur Abbildung physikalischer
+
+=== POSITION: University College London, Großbritanien  ===
+  [EN]
+  [DE]
+

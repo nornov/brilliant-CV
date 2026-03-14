@@ -363,6 +363,8 @@ Always read before editing:
 - [ ] `brilliant-cv/metadata.toml` — current tagline and color
 - [ ] `brilliant-cv/modules_de/` or `modules_en/` — current bullet content
 - [ ] `brilliant-cv/cv.typ` — which modules are active
+- [ ] `template/modules_de/professional.typ` — full list of bullet points per position in german
+- [ ] `template/modules_en/professional.typ` — full list of bullet points per position in english
 
 ### Step 2: Update `metadata.toml`
 
@@ -370,7 +372,7 @@ Always read before editing:
 - Update `injected_keywords_list` to match JD keywords
 - Leave all layout, font, and personal.info fields untouched
 
-### Step 3: Rewrite `professional.typ` bullets
+### Step 3: Rewrite `professional.typ` bullets using the full list of bullet points per position in the template files
 
 - Prioritize bullets per archetype strategy above
 - Keep bullet format: **[Was] + [Wie] + [Ergebnis/Technologie]**
@@ -386,8 +388,8 @@ Always read before editing:
 Before finalizing, **you MUST rigorously verify** the following:
 
 - **1-Page Limit (Strict):**
-  - Run the compile command (§5). If the PDF exceeds 1 page, *you must fix it.*
-  - *Fix:* Trim older/irrelevant jobs, keep max 3-4 highly impactful bullets per role, and merge or drop lower-tier skill rows.
+  - Run the compile command (§5). If the PDF exceeds 1 page, _you must fix it._
+  - _Fix:_ Trim older/irrelevant jobs, keep max 3-4 highly impactful bullets per role, and merge or drop lower-tier skill rows.
 - **ATS Compatibility:**
   - Verify that EXACT keywords from the JD are populated in `metadata.toml` (`injected_keywords_list`).
   - Standard naming convention MUST be followed for the output file.

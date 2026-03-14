@@ -1,0 +1,136 @@
+Nursultan 
+ORNOV 
+ 
+ 
+ 
+Telefon: +49 177 4299129 
+Email: nursultan.ornov@gmail.com 
+Plochinger Str. 58 - 73730 Esslingen 
+Profil  
+Ergebnisorientierter Full-Stack Datenexperte mit Schwerpunkt auf Advanced Analytics und der 
+Entwicklung von Datenprodukt-Pipelines. Ich setze mich dafür ein, Spitzenqualität in der 
+Datenverarbeitung und die zuverlässige Lieferung von datenbasierten Erkenntnissen zu 
+gewährleisten. 
+ 
+Beruflicher Werdegang 
+02/2023 – heute 
+Daimler Truck AG 
+Data Engineer / Data Scientist 
+• 
+Optimierung von ETL-Pipelines Aufbauprozesses durch Automatisierung und CI/CD-Integration 
+in Azure DevOps, wodurch die Compute- und Speicherkosten um 470.000 € jährlich reduziert 
+und die Deployment-Zeit von 2 Stunden auf 15 Minuten verkürzt wurde. 
+• 
+Etablierung eines internen Kompetenzzentrums für den realen Energieverbrauch von 
+Kundenfahrzeugen, mit regelmäßigen Präsentationen auf Senior-Management-Ebene. 
+• 
+Bereitstellung von Zeitserien-Datenprodukten für Produktentwicklung und Sales-Campaigns, 
+wodurch organisationsweit datengetriebene Entscheidungen verbessert wurden. 
+ 
+09/2019 – 01/2023 Daimler Truck AG 
+Berechnungsingeniuer für HV/LV Systeme  
+• 
+Aufbau einer innovativen Simulationsmethode in der Entwicklungsorganisation 
+• 
+Rechnerische Absicherung der optimierten Ladefunktionen in Elektrofahrzeugen durch die 
+Kombination von Simulations- und Datenanalysefähigkeiten. 
+• 
+Entwicklung von Simulink-Systemmodellen für das Gesamtfahrzeugmodell mit Schwerpunkt auf 
+der Analyse des Energieverbrauchs.  
+ 
+02/2018 – 08/2019 Valeo Siemens eAutomotive GmbH  
+Resident-Ingenieur bei Daimler AG 
+• 
+Verantwortung für die technische Kommunikation mit Kunden, um die Kluft zwischen den 
+Kundenanforderungen und dem internen Entwicklungsteam zu überbrücken. 
+• 
+Sicherstellung der Einhaltung von Projektzeitplänen durch Engagement und Flexibilität bei der 
+Inbetriebnahme elektrischer Antriebe auf Prüfständen und in Testfahrzeugen. 
+• 
+Aktive Teilnahme an Fahrzeugerprobungen. 
+ 
+Ausbildung  
+ 
+10/2015 – 11/2017 RWTH Aachen, Aachen, Deutschland   
+Studiengang: Elektrotechnik 
+Abschluss: Master of Science, Note: 1,4 
+Schwerpunkte: Leistungselektronik, Elektrische Antriebe 
+08/2010 – 05/2015 Nasarbajew-Universität, Astana, Kasachstan   
+Studiengang: Elektrotechnik 
+Abschluss: Bachelor of Engineering, GPA: 3.75 (~= 1-)  
+Schwerpunkte: Leistungselektronik 
+ 
+Weiterbildung  
+ 
+Cloud Plattformen 
+Azure Data Engineer Associate, Azure Data Fundamentals 
+ 
+Databricks Data Engineer Associate 
+ 
+Statistik und Mathematik 
+ 
+Probability theory, Statistics and Exploratory Data Analysis (Coursera) 
+ 
+Complete Data Science Bootcamp (Udemy) 
+ 
+Intro to Machine Learning (Kaggle) 
+ 
+Python 
+Python (Kaggle)  
+ 
+SQL 
+Intro to SQL (Kaggle) 
+Practical skills of SQL language (https://www.sql-ex.ru/) 
+ 
+Big Data  
+Big Data and Hadoop Essentials (Udemy) 
+ 
+Apache Spark 
+Apache Spark Essential Training (Linkedin Learning) 
+ 
+Apache Spark by Example (Linkedin Learning) 
+ 
+Presäntation / BI 
+Fundamentals of Data Visualization in Tableau (Udemy) 
+ 
+Presenting Technical Information with Stories (Linkedin Learning) 
+ 
+Soziale Kompetenzen 
+Führen ohne Vorgesetztenfunktion (Haufe Akademie) 
+ 
+GenAI 
+Generative AI Fundamentals (Databricks) 
+ 
+Sprachkenntnisse 
+ 
+Englisch  
+ 
+ 
+verhandlungssicher  
+Deutsch  
+ 
+ 
+verhandlungssicher 
+Python 
+ 
+ 
+verhandlungssicher 😉 
+Russisch  
+ 
+ 
+Muttersprache 
+Kasachisch   
+ 
+Muttersprache  
+ 
+Interessen und Hobbies 
+ 
+Science-Fiction-Autor 
+Schah 
+Tennis 
+ 
+ 
+ 
+Esslingen, den 29/03/2025 
+ 
+mein LinkedIn-Profil 

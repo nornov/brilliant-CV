@@ -24,7 +24,7 @@ language = "en"
     font_size = "9pt"
 
     [layout.fonts]
-        regular_fonts = ["Arial", "Helvetica", "Font Awesome 6 Brands", "Font Awesome 6 Free"]
+        regular_fonts = ["Arial"]
         header_font = "Arial"
 
     [layout.header]

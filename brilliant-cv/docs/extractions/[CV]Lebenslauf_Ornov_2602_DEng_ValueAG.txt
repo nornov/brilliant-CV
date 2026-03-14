@@ -1,0 +1,106 @@
+Nursultan 
+ORNOV 
+ 
+ 
+Telefon: +49 177 4299129 
+Email: nursultan.ornov@gmail.com 
+Plochinger Str. 58 - 73730 Esslingen 
+ 
+Senior Data Analytics Engineer | Cloud & ELT Expert  
+ 
+Beruflicher Werdegang 
+ 
+02/2023 – heute 
+Daimler Truck AG 
+Data Analytics Engineer / Data Scientist 
+ 
+• ELT-Pipeline Entwicklung & Optimierung: Verantwortung für performante ELT-Prozesse auf 
+Azure Databricks. Transformation massiver IoT-Zeitreihendaten in nutzbare Business-
+Datenmodelle unter Einsatz von Python und SQL. 
+• Datenqualität & Automatisierung: Etablierung automatisierter Testroutinen und CI/CD-
+Pipelines in Azure DevOps, wodurch Deployment-Zyklen von 2 Stunden auf 15 Minuten verkürzt 
+und die Datenintegrität sichergestellt wurde. 
+• Stakeholder Management & Data Culture: Aufbau und Leitung eines internen „Center of 
+Expertise“ für Energieverbrauchsdaten. Übersetzung komplexer Fachanforderungen in 
+technische Analytics-Lösungen und Beratung des Senior Managements bei datengetriebenen 
+Entscheidungen. 
+• Business Value & FinOps: Identifikation von Effizienzpotenzialen in der Cloud-Infrastruktur, 
+was zu einer jährlichen Kosteneinsparung von 470.000 € führte 
+• Data Products: Bereitstellung hochverfügbarer Datenprodukte für Sales-Kampagnen und die 
+Produktentwicklung, um Abweichungen und Trends in der Flottennutzung sichtbar zu machen. 
+ 
+09/2019 – 01/2023 Daimler Truck AG 
+Data Modeling & Simulation Engineer  
+ 
+• Datenmodellierung: Entwicklung komplexer Modelle zur Abbildung physikalischer 
+Fahrzeugsysteme (HV/LV), um Business-Fragen zum Energieverbrauch direkt beantworten zu 
+können. 
+• Analytics & Trendanalyse: Durchführung datengestützter Analysen zur Absicherung von 
+Produktfunktionen ("Data-Driven Engineering"), inklusive Identifikation von Anomalien in großen 
+Testdatensätzen 
+ 
+02/2018 – 08/2019 Valeo Siemens eAutomotive GmbH  
+Resident-Ingenieur bei Daimler AG 
+ 
+• Requirements Engineering: Technische Schnittstelle zwischen Kundenanforderungen und 
+Entwicklungsteams. Übersetzung von Business-Requirements in technische 
+Validierungspläne. 
+• Projektsteuerung: Sicherstellung der Datenverfügbarkeit und Qualität bei kritischen 
+Meilensteinen der Inbetriebnahme. 
+ 
+ 
+Ausbildung  
+ 
+10/2015 – 11/2017 RWTH Aachen, Aachen, Deutschland   
+Studiengang: Elektrotechnik 
+Abschluss: Master of Science, Note: 1,4 
+Schwerpunkte: Leistungselektronik, Elektrische Antriebe 
+ 
+08/2010 – 05/2015 Nasarbajew-Universität, Astana, Kasachstan   
+Studiengang: Elektrotechnik 
+Abschluss: Bachelor of Engineering, GPA: 3.75 (~= 1-)  
+Schwerpunkte: Leistungselektronik 
+ 
+Kenntnisse & Weiterbildungen 
+ 
+Data Engineering & Transformation: SQL, ELT-Pipelines, dbt, PySpark 
+ 
+Cloud & Plattformen: Azure Data Engineer Associate, Azure DevOps, Blob Storage 
+ 
+Databricks: Data Engineer Associate  
+ 
+DevOps & Qualität: CI/CD-Automatisierung, Git, Unit Testing, Data Quality Monitoring 
+ 
+BI & Analytics: PowerBI, Tableau, Datenvisualisierung für Management-Reporting 
+ 
+KI & Analytics: Generative AI Fundamentals (Databricks), Machine Learning (Kaggle), Statistik & 
+Wahrscheinlichkeitstheorie.  
+ 
+ 
+Sprachkenntnisse 
+ 
+Englisch  
+ 
+ 
+verhandlungssicher  
+Deutsch  
+ 
+ 
+verhandlungssicher 
+Russisch  
+ 
+ 
+Muttersprache 
+Kasachisch   
+ 
+Muttersprache  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Esslingen, den 20/01/2026 
+ 
+mein LinkedIn-Profil 
