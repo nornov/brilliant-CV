@@ -2,7 +2,7 @@
 * Functions for the CV template
 */
 
-#import "@preview/fontawesome:0.6.0": *
+// fontawesome removed — using Unicode symbols instead
 #import "./utils/injection.typ": _inject
 #import "./utils/styles.typ": _latin-font-list, _latin-header-font, _awesome-colors, _regular-colors, _set-accent-color, h-bar
 #import "./utils/lang.typ": _is-non-latin, _default-date-width
@@ -31,18 +31,18 @@
   eval(metadata.layout.at(key, default: default))
 }
 
-/// Personal info icons mapping
+/// Personal info icons mapping (Unicode — no Font Awesome dependency)
 /// -> dictionary
 #let _personal-info-icons = (
-  phone: fa-phone(),
-  email: fa-envelope(),
-  linkedin: fa-linkedin(),
-  homepage: fa-pager(),
-  github: fa-square-github(),
-  gitlab: fa-gitlab(),
-  orcid: fa-orcid(),
-  researchgate: fa-researchgate(),
-  location: fa-location-dot(),
+  phone: [☎],
+  email: [✉],
+  linkedin: [in],
+  homepage: [⊕],
+  github: [⌥],
+  gitlab: [◈],
+  orcid: [◎],
+  researchgate: [⊞],
+  location: [⊙],
   extraInfo: "",
 )
 
@@ -69,7 +69,7 @@
           icon
         })
       } else if awesome-icon != "" {
-        icon = fa-icon(awesome-icon)
+        icon = [⊕]
       }
       box({
         icon
@@ -704,10 +704,10 @@
   let skill-level-style(str) = {
     set text(size: 10pt, fill: _regular-colors.darkgray)
     for x in range(0, level) {
-      [#fa-icon("circle", solid: true) ]
+      [● ]
     }
     for x in range(level, 5) {
-      [#fa-icon("circle") ]
+      [○ ]
     }
   }
 

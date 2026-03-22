@@ -3,12 +3,11 @@
 
 #cv-section("Skills")
 
-- *Data Engineering:* Python (Expert), SQL, PySpark, Apache Spark, Scala (Basic)
-- *Cloud & Architecture:* Microsoft Azure, S3 / Blob Storage, Docker
-- *Orchestration & DevOps:* Azure Data Factory, Databricks Workflows (Airflow eq.), CI/CD (Azure DevOps), Git
-- *BI & Analytics:* Delta Lake, Data Structures & Algorithms
-- *Applied AI & Safety:* ML Anomaly Detection, RAG, Synthetic Data Generation
-- *Certifications:* Azure Data Engineer Associate (Microsoft), Databricks Data Engineer Associate
+- *Databricks & Lakehouse:* Databricks Workflows, Delta Lake, Unity Catalog (familiar), Lakehouse architecture, PySpark
+- *Data Engineering:* Python (Expert), Apache Spark, SQL, ETL/ELT pipelines, Scala (Basic)
+- *Cloud & DevOps:* Microsoft Azure, S3 / Blob Storage, Docker, CI/CD (Azure DevOps), Git, Infrastructure as Code
+- *Applied AI:* RAG (LangChain-equivalent), ML Anomaly Detection, Synthetic Data Generation
+- *Certifications:* Databricks Data Engineer Associate, Azure Data Engineer Associate (Microsoft)
 
 #cv-section("Languages")
 - #box(width: 65pt)[*German*] *Full professional*
