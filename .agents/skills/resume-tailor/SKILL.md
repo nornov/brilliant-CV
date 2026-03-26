@@ -347,6 +347,21 @@ Always read before editing:
 - Keep bullet format: **[What] + [How] + [Result/Technology]**
 - Use only verified numbers (470.000 € and >80%)
 
+### Step 3.5: Humanizer pass on all written bullets (MANDATORY)
+
+After writing bullets in `professional.typ`, **you MUST run a humanizer audit before saving the file**. Apply the humanizer skill (`humanizer`) to every bullet you wrote.
+
+Specifically check for and fix:
+- **Power verb overuse** (Pattern 29): Replace "Spearheaded/Orchestrated/Leveraged/Championed" with plain verbs describing the actual method ("built", "refactored", "wrote", "ran", "owned").
+- **Perfect bullet parallelism** (Pattern 32): Break the mold — vary structure, sentence length, whether a metric appears.
+- **Hollow trait claims** (Pattern 30): Delete any claim not backed by a specific fact.
+- **Metric inflation without context** (Pattern 31): Every number needs before/after baseline. Remove numbers that lack context.
+- **Mirror-the-JD language** (Pattern 35): If a bullet uses a phrase verbatim from the JD, rewrite it in your own words.
+- **AI vocabulary** (Pattern 7): Remove "spearheaded", "streamlined", "leveraged", "ensured", "highlighting", "showcasing", etc.
+- **Em dash overuse** (Pattern 13): Replace em dashes with commas or restructure.
+
+Only after the humanizer pass, write the final content to the file.
+
 ### Step 4: Reorder `skills.typ`
 
 - Front-load JD-matched skills within each `cv-skill` row

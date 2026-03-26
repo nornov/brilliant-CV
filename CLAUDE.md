@@ -52,10 +52,28 @@ typst compile cv.typ --input language=fr  # Override language via CLI
 
 **Language handling**: Language is set in `metadata.toml` or overridden via `--input language=xx`. Non-Latin languages (zh, ja, ko, ru) trigger different font handling.
 
-## CI/CD
+## Claude Code Skill Workflows
 
-- `compile.yaml` - Validates template compiles on push/PR
-- `release-and-publish.yaml` - Publishes to Typst Universe on version tags (vX.Y.Z)
+This repository ships workflow skills under multiple discovery paths. Claude Code (claude.ai/code) should read skill manifests before editing any source files.
+
+- `.claude/skills/typst-author/SKILL.md` (preferred)
+  - Use for Typst markup, packages, layout, and in-repo .typ files.
+  - Workflow: inspect docs in `docs/`, edit in place, validate with `just build`/`typst compile`.
+
+- `.claude/skills/resume-tailor/SKILL.md` (preferred)
+  - Use for updating CV content in `brilliant-cv/modules_*` and `template/modules_*` with data-engineering role tailoring.
+  - Workflow: keep facts unchanged (dates, employer names) while aligning bullets and tags to job descriptions.
+
+- `.claude/skills/job-description-analyzer/SKILL.md` (preferred)
+  - Use for analyzing JD text, extracting hard/soft skills, and generating match+application strategies.
+  - Workflow: ingest JD, classify requirements, compare against verified profile, output structured report.
+
+## Skill path compatibility (Claude Code)
+
+- Legacy skill storage: `.agents/skills/` (still available for tooling that reads this path).
+- Claude Code may also scan `.claude/skills/` or `.skills/` in some setups. This project mirrors skills to those locations:
+  - `.claude/skills/`
+  - `.skills/`
 
 The CI copies package files to Typst's cache directory to resolve imports. Local development uses `utpm ws link` instead.
 

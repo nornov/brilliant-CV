@@ -4,8 +4,6 @@
 #let _latin-font-list = (
   "Source Sans 3",
   "Linux Libertine",
-  "Font Awesome 6 Brands",
-  "Font Awesome 6 Free",
 )
 
 #let _latin-header-font = ("Roboto")
