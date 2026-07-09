@@ -3,12 +3,12 @@
 
 #cv-section("Kenntnisse & Weiterbildungen")
 
-- *Data Engineering:* Python (produktionsreif), PySpark, Apache Spark, SQL
-- *Cloud & Architektur:* Microsoft Azure, Docker, REST APIs
-- *Orchestrierung & DevOps:* Azure Data Factory, Azure Databricks, CI/CD, Unit Testing, Linting, Git
-- *BI Tools & Visualisierung:* Power BI, Tableau, Management-Reporting
-- *Applied AI & Analytics:* RAG / LangChain, Generative AI Fundamentals, Machine Learning
-- *Zertifizierungen:* Azure Data Engineer Associate (Microsoft), Databricks Data Engineer Associate
+- *Data Engineering:* Python (produktionsreif) #h-bar() PySpark #h-bar() Apache Spark #h-bar() SQL #h-bar() Delta Lake
+- *Cloud-Plattform:* Azure Databricks (zertifiziert) #h-bar() Microsoft Azure (zertifiziert) #h-bar() Azure DevOps #h-bar() Docker
+- *Architektur & Pipelines:* ELT/ETL #h-bar() Medallion-Architektur (Bronze/Silver/Gold) #h-bar() Data Lakehouse #h-bar() CI/CD
+- *BI & Reporting:* Power BI #h-bar() Tableau #h-bar() Management-Reporting
+- *Applied AI & Analytics:* RAG / LangChain #h-bar() Generative AI #h-bar() Machine Learning #h-bar() Anomalie-Erkennung
+- *Zertifizierungen:* Azure Data Engineer Associate (Microsoft) #h-bar() Databricks Data Engineer Associate
 
 #cv-section("Sprachen")
 - #box(width: 70pt)[*Deutsch*] *Verhandlungssicher*
