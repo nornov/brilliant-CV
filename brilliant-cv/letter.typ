@@ -11,28 +11,22 @@
 
 #show: letter.with(
   metadata,
-  sender-address: "Your Address Here",
-  recipient-name: "Company Name Here",
-  recipient-address: "Company Address Here",
-  date: datetime.today().display(),
-  subject: "Subject: Hey!",
+  sender-address: "Stuttgart, Germany",
+  recipient-name: "Novartis Pharma AG",
+  recipient-address: "Biomedical Research, Basel, Switzerland",
+  date: "Stuttgart, 14 July 2026",
+  subject: "Application: Forward Deployed Engineer (FDE) Data42 (REQ-10079038)",
   signature: image("assets/signature.png"),
 )
 
-Dear Hiring Manager,
+Dear Hiring Team,
 
-I am excited to submit my application for the Senior Data Analyst position at ABC Company. With over 5 years of experience in data analysis and a demonstrated track record of success, I am confident in my ability to make a valuable contribution to your team.
+I'm applying for the Forward Deployed Engineer role on data42. The platform runs on Palantir Foundry, and two things about the role match how I already work: I've built on Foundry, and most of my career has been spent embedded with the teams I build for.
 
-In my current role as a Data Analyst at XYZ Company, I have gained extensive experience in data mining, quantitative analysis, and data visualization. Through my work, I have developed a deep understanding of statistical concepts and have become adept at using tools such as SQL, Python, and R to extract insights from complex datasets. I have also gained valuable experience in presenting complex data in a visually appealing and easily accessible manner to stakeholders across all levels of an organization.
+When my company adopted Foundry, I migrated a production pipeline off Azure (Data Factory and DevOps) onto the platform, rebuilding the transforms and datasets in Foundry and checking the output against the old pipeline until the two matched. I was also part of the evaluation that fed the decision to adopt it. My first role, years earlier, was a resident engineer sitting on the customer's site as the link between their engineers and my company's development. That is the same embedded, translate-a-need-into-something-shipped work an FDE does.
 
-I believe that my experience in data analysis makes me an ideal candidate for the Senior Data Analyst position at ABC Company. I am particularly excited about the opportunity to apply my skills to support your organization's mission and drive impactful insights. Your focus on driving innovative solutions to complex problems aligns closely with my own passion for using data analysis to drive positive change in organizations.
+Day to day at Daimler Truck I build the production data platform a growing group of engineers and analysts depend on: fault-tolerant PySpark pipelines on a Databricks lakehouse, the canonical datasets that Product and Finance treat as their single source of truth, anomaly detection guarding quality in the ingestion layer, and a RAG assistant that 50+ colleagues now use daily. So pipelines, data modeling, quality, and shipping something people actually open are familiar ground.
 
-In my current role, I have been responsible for leading data projects from initiation to completion. I work closely with cross-functional teams to identify business problems and use data to develop solutions that drive business outcomes. I have a proven track record of delivering high-quality work on time and within budget.
-
-Furthermore, I have extensive experience in developing and implementing data-driven solutions that improve business operations. For example, I have implemented predictive models that have improved sales forecasting accuracy by 10%, resulting in significant cost savings. I have also developed dashboards that provide real-time insights into business performance, enabling stakeholders to make more informed decisions.
-
-As a highly motivated and detail-oriented individual, I am confident that I would thrive in the fast-paced and dynamic environment at ABC Company. I am excited about the opportunity to work with a talented team of professionals and to continue developing my skills in data analysis.
-
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+I'd be new to the biomedical domain. My background is electrical engineering and automotive data, not the life sciences. What I bring instead is someone who learns a domain by embedding in it and asking the people who live it, plus the Foundry and data-engineering foundation to be useful early. I'd welcome the chance to talk about how I could help domain teams ship on data42. Thank you for considering my application.
 
 Sincerely,

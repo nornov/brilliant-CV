@@ -4,6 +4,7 @@
 #cv-section("Skills")
 
 - *Data Engineering:* Python (Expert), SQL, PySpark, Apache Spark, Scala (Basic)
+- *Platforms:* Palantir Foundry (pipelines, transforms, datasets), Databricks, Delta Lake
 - *Cloud & Architecture:* Microsoft Azure, S3 / Blob Storage, Docker
 - *Orchestration & DevOps:* Azure Data Factory, Databricks Workflows (Airflow eq.), CI/CD (Azure DevOps), Git
 - *BI & Analytics:* Delta Lake, Data Structures & Algorithms
