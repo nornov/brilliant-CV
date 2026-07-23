@@ -9,12 +9,12 @@
   date: [02/2023 – heute],
   location: [Stuttgart, Deutschland],
   description: list(
-    [Lakehouse-Architektur & ELT-Pipelines: Skalierbare Datenpipelines auf Azure Databricks (PySpark, Delta Lake) verantwortet; Medallion-Architektur (Bronze/Silver/Gold) für Reporting-, Analytics- und ML-Szenarien modelliert.],
-    [Datenqualität & Betrieb: Automatisierte Datenqualitätsprüfungen und Monitoring in Produktionspipelines etabliert; Spark-Tuning via Z-Ordering und Broadcast Joins – Latenz um 85%, Kosten um 470.000 €/Jahr gesenkt.],
-    [CI/CD & DevOps: Unit-Testing, Linting und CI/CD-Pipelines (Azure DevOps) als Team-Standard eingeführt; Deployment-Zyklus von 2h auf 15min verkürzt; ganzheitliche End-to-End-Ownership ("You Build It, You Run It").],
-    [ML & GenAI-Integration: Anomalie-Erkennungsmodell in IoT-Ingestion-Layer integriert; LLM-gestützten Coding Copilot (RAG, Python, LangChain) für 50+ Ingenieure deployed.],
+    [Datenplattform & Data Products: Skalierbare ELT-Pipelines auf einem Azure-Databricks-Lakehouse (PySpark, Delta Lake) in Medallion-Architektur modelliert; die kuratierten Gold-Datensätze nutzen Produkt und Finance als verlässliche Single Source of Truth.],
+    [Datenqualität & Betrieb: Automatisierte Qualitätsprüfungen und Monitoring für reproduzierbare Datensätze etabliert; über Spark-Tuning (Z-Ordering, Broadcast Joins) Latenz um 85% und Cloud-Kosten um 470.000 €/Jahr gesenkt.],
+    [CI/CD, DevOps & agile Lieferung: Unit-Testing, Linting und CI/CD (Azure DevOps) als Team-Standard eingeführt und den Deployment-Zyklus von 2h auf 15min verkürzt; End-to-End-Verantwortung nach „You build it, you run it".],
+    [Beratung & Applied AI: Lösungen für Fach- und Technikebene gleichermaßen nachvollziehbar gemacht und im Center of Expertise geteilt; Anomalie-Erkennung im IoT-Ingestion-Layer und einen RAG-Coding-Assistenten (Python, LangChain) für über 50 Ingenieure produktiv gestellt.],
   ),
-  tags: ("Azure Databricks", "Delta Lake", "PySpark", "Python", "SQL", "CI/CD", "Azure DevOps"),
+  tags: ("Databricks", "Delta Lake", "PySpark", "Python", "SQL", "CI/CD", "Data Products"),
 )
 
 #cv-entry(
@@ -23,8 +23,8 @@
   date: [09/2019 – 01/2023],
   location: [Stuttgart, Deutschland],
   description: list(
-    [Automotive AI & Modellierung: Python-Simulationsframeworks zur Validierung komplexer HV/LV-Fahrzeugsysteme entwickelt – physikalische Modelle mit Fahrzeugtestdaten kombiniert, um Produktfunktionen abzusichern.],
-    [Datengetriebene Optimierung: Ladealgorithmen für Elektrofahrzeuge durch Anomalie-Erkennung in großen Testdatensätzen verbessert; Erkenntnisse direkt in Fahrzeugsoftware-Updates eingeflossen.],
+    [Datenmodellierung & Simulation: Python-Simulationsframeworks zur Validierung komplexer HV/LV-Fahrzeugsysteme entwickelt und physikalische Modelle mit realen Testdaten kombiniert, um Produktfunktionen abzusichern.],
+    [Datengetriebene Optimierung: Ladealgorithmen für Elektrofahrzeuge über Anomalie-Erkennung in großen, heterogenen Testdatensätzen verbessert und Ergebnisse in belastbare Datenmodelle für interdisziplinäre Teams übersetzt.],
   ),
 )
 
@@ -34,6 +34,6 @@
   date: [02/2018 – 08/2019],
   location: [Stuttgart, Deutschland],
   description: list(
-    [Technische Koordination zwischen Daimler-Kunden und Valeo-Entwicklungsteam bei der Systemintegration elektrischer Antriebskomponenten.],
+    [Als technische Schnittstelle beim Kunden Daimler AG dessen Anforderungen und das Valeo-Entwicklungsteam zusammengebracht und Business-Anforderungen in umsetzbare technische Validierungspläne übersetzt.],
   ),
 )

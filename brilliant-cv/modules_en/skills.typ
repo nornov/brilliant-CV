@@ -3,15 +3,16 @@
 
 #cv-section("Skills")
 
-- *Palantir Foundry & Lakehouse:* Palantir Foundry (pipelines, transforms, datasets), Databricks, Delta Lake, PySpark / Apache Spark
-- *Languages & Code:* Python (Expert), SQL, PySpark; production-grade code, unit testing, code review
-- *ETL & Data Modeling:* production ETL/ELT pipelines, data ingestion & quality, canonical datasets, single-source-of-truth modeling
-- *Delivery & Collaboration:* stakeholder-embedded delivery, POCs, cross-functional work with product & data science, mentoring
-- *Cloud & DevOps:* Microsoft Azure (certified), Azure Data Factory, CI/CD (Azure DevOps), Docker, Terraform, Git
-- *Certifications:* Databricks & Azure Data Engineer Associate, Databricks GenAI
+- *Applied AI & ML:* RAG / LangChain, LLM evaluation, production ML systems, anomaly detection, time-series forecasting, scikit-learn
+- *Languages & Code:* Python (Expert), SQL, PySpark; production-grade code, testing, code review
+- *Data & Analysis:* pandas, NumPy, data modeling, canonical datasets, large-scale telemetry
+- *Data Visualization:* matplotlib, Power BI, Tableau
+- *Cloud & Deployment:* Microsoft Azure (certified), Palantir Foundry, Databricks, Delta Lake, Docker, CI/CD
+- *Working with Stakeholders:* embedded delivery with domain experts, workshops, communicating to engineers and executives
+- *Certifications:* Databricks GenAI, Databricks & Azure Data Engineer Associate
 
 #cv-section("Languages")
-- #box(width: 65pt)[*German*] *Full professional*
+- #box(width: 65pt)[*German*] *Full professional (C2)*
 - #box(width: 65pt)[*English*] *Full professional*
 - #box(width: 65pt)[Russian] Native
 - #box(width: 65pt)[Kazakh] Native

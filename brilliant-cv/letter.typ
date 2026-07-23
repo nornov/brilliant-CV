@@ -11,22 +11,22 @@
 
 #show: letter.with(
   metadata,
-  sender-address: "Stuttgart, Germany",
-  recipient-name: "Novartis Pharma AG",
-  recipient-address: "Biomedical Research, Basel, Switzerland",
-  date: "Stuttgart, 14 July 2026",
-  subject: "Application: Forward Deployed Engineer (FDE) Data42 (REQ-10079038)",
+  sender-address: "Stuttgart, Deutschland",
+  recipient-name: "Zühlke Engineering AG",
+  recipient-address: "Schlieren, Schweiz",
+  date: "Stuttgart, 15. Juli 2026",
+  subject: "Bewerbung: Advanced Data Engineer (JR100885)",
   signature: image("assets/signature.png"),
 )
 
-Dear Hiring Team,
+Sehr geehrtes Recruiting-Team von Zühlke,
 
-I'm applying for the Forward Deployed Engineer role on data42. The platform runs on Palantir Foundry, and two things about the role match how I already work: I've built on Foundry, and most of my career has been spent embedded with the teams I build for.
+auf die Position als Advanced Data Engineer bewerbe ich mich, weil sie zwei Dinge verbindet, die meinen Arbeitsalltag prägen: anspruchsvolle Datenplattformen bauen und die Menschen verstehen, die damit arbeiten. Dass Zühlke Daten als Hebel für gesellschaftlich relevante Fragen begreift und in regulierten Feldern wie Health und Finance zu Hause ist, passt zu der Sorgfalt, die ich aus der Automobilindustrie gewohnt bin.
 
-When my company adopted Foundry, I migrated a production pipeline off Azure (Data Factory and DevOps) onto the platform, rebuilding the transforms and datasets in Foundry and checking the output against the old pipeline until the two matched. I was also part of the evaluation that fed the decision to adopt it. My first role, years earlier, was a resident engineer sitting on the customer's site as the link between their engineers and my company's development. That is the same embedded, translate-a-need-into-something-shipped work an FDE does.
+Bei Daimler Truck verantworte ich die produktive Datenplattform, auf die eine wachsende Gruppe von Ingenieuren und Analysten angewiesen ist: fehlertolerante PySpark-Pipelines auf einem Databricks-Lakehouse, in einer Medallion-Architektur modelliert, deren kuratierte Datensätze Produkt und Finance als verlässliche Grundlage nutzen. Über automatisierte Qualitätsprüfungen, Spark-Tuning und CI/CD in Azure DevOps habe ich Latenz und Betriebskosten spürbar gesenkt und den Deployment-Zyklus von zwei Stunden auf 15 Minuten gebracht. Ich bin Databricks- und Azure-zertifiziert und arbeite täglich mit Python, SQL und Delta Lake.
 
-Day to day at Daimler Truck I build the production data platform a growing group of engineers and analysts depend on: fault-tolerant PySpark pipelines on a Databricks lakehouse, the canonical datasets that Product and Finance treat as their single source of truth, anomaly detection guarding quality in the ingestion layer, and a RAG assistant that 50+ colleagues now use daily. So pipelines, data modeling, quality, and shipping something people actually open are familiar ground.
+Für eine beratende Rolle spricht etwas, das vor meiner Data-Engineering-Zeit liegt: Meine erste Station war die eines Resident-Ingenieurs direkt beim Kunden, als Bindeglied zwischen dessen Anforderungen und dem Entwicklungsteam. Dieses Übersetzen zwischen Fach- und Technikebene mache ich heute im unternehmensweiten Center of Expertise weiter, wenn ich Lösungen für Fachbereiche wie für die Technik gleichermaßen nachvollziehbar mache. Iterativ und agil zu liefern, damit früh sichtbarer Nutzen entsteht, ist dabei mein Anspruch.
 
-I'd be new to the biomedical domain. My background is electrical engineering and automotive data, not the life sciences. What I bring instead is someone who learns a domain by embedding in it and asking the people who live it, plus the Foundry and data-engineering foundation to be useful early. I'd welcome the chance to talk about how I could help domain teams ship on data42. Thank you for considering my application.
+Einige Technologien Ihres Stacks, etwa Kafka, Airflow und Kubernetes, kenne ich bislang eher am Rand als aus dem täglichen Einsatz; auf Spark, Delta Lake, Terraform und FastAPI baue ich dagegen bereits auf, und neue Werkzeuge zügig zu erlernen gehört für mich zum Handwerk. Deutsch (C2) und Englisch (C1) bringe ich für die zweisprachige Arbeit mit. Über ein Gespräch, wie ich Ihre Kundenprojekte voranbringen kann, würde ich mich sehr freuen. Vielen Dank für die Berücksichtigung meiner Bewerbung.
 
-Sincerely,
+Mit freundlichen Grüßen,

@@ -2,7 +2,7 @@
 
 # Set the output language
 # INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
-language = "en"
+language = "de"
 
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
@@ -58,7 +58,7 @@ language = "en"
 
     # Decide if you want to inject keywords or not
     inject_keywords = true
-    injected_keywords_list = ["Palantir Foundry", "Forward Deployed Engineer", "Data Engineer", "Data Pipelines", "Data Ingestion", "Data Modeling", "Data Quality", "PySpark", "Apache Spark", "Databricks", "Python", "SQL", "ETL", "Stakeholder Management", "Cross-functional Collaboration", "Azure Data Factory"]
+    injected_keywords_list = ["Research Engineer", "Applied AI", "Machine Learning", "Python", "SQL", "Data Visualization", "pandas", "NumPy", "Full-Stack Data Applications", "Production ML", "RAG", "Anomaly Detection", "Time-Series", "Cloud Deployment", "Stakeholder Collaboration", "Software Engineering", "Data-Driven Solutions"]
 
 [personal]
     first_name = "Nursultan"
@@ -79,12 +79,12 @@ language = "en"
 # i.e. [[lang.ru]]
 # each section must contains the following fields
 [lang.de]
-    header_quote = "Data Engineer | Azure Databricks · Delta Lake · Medallion-Architektur · 7 Jahre Enterprise-IT"
+    header_quote = "Data Engineer | Databricks · Delta Lake · Medallion & Data Products | vom Kundenbedarf zur produktiven Datenpipeline"
     cv_footer = "Lebenslauf"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Data Engineer · Palantir Foundry & Databricks Lakehouse · embedded, end-to-end delivery of production data pipelines"
+    header_quote = "Applied AI & data engineer · production ML, RAG & data-driven apps · Python/SQL · turns domain workflows into tools people use daily"
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 

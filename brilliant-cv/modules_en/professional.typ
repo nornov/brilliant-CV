@@ -4,18 +4,18 @@
 #cv-section("Work Experience")
 
 #cv-entry(
-  title: [Data Engineer, Cloud Data Platform],
+  title: [Applied AI & Data Engineer, Cloud Platform],
   society: [Daimler Truck AG],
   date: [02/2023 – Present],
   location: [Stuttgart, Germany],
   description: list(
-    [*Palantir Foundry:* Migrated a production pipeline from Azure (Data Factory + DevOps) to Palantir Foundry during the platform's evaluation and rollout, rebuilding the transforms and datasets and validating parity against the legacy pipeline.],
-    [*Embedded with domain teams:* Sit with Product and Finance to turn their reporting workflows into the canonical Delta datasets they now treat as the single source of truth, serving 50+ downstream engineers and analysts.],
-    [*Production pipelines & data quality:* Built fault-tolerant PySpark pipelines on a Databricks lakehouse ingesting high-frequency fleet telemetry, with anomaly detection guarding quality; Spark retuning cut cloud cost €470k/year.],
-    [*User-facing delivery:* Took a RAG assistant from prototype to production; 50+ engineers now use it daily.],
-    [*Reusable standards & mentoring:* Wrote the team's CI/CD, tests, and review standards, which cut deployment from 2h to 15min and became the onboarding baseline for new engineers.],
+    [*Applied AI, prototype to production:* Took a retrieval-augmented (RAG) assistant from an early prototype through evaluation to a deployed service now used daily by 50+ engineers, and defined how we judged whether its answers were good enough to ship.],
+    [*Building tools with the people who use them:* Sit with Product and Finance, learn how they actually work, and turn their day-to-day analysis into small data-driven apps and canonical datasets they reach for directly.],
+    [*Applied ML in production:* Put anomaly-detection and time-series models into the ingestion layer so bad signals get caught before they reach downstream models.],
+    [*Engineering at scale:* Wrote fault-tolerant PySpark pipelines on a Databricks lakehouse for high-frequency fleet telemetry; retuning Spark cut cost by €470k/year.],
+    [*Talking to both rooms:* Present the same work to engineers and to non-technical decision-makers, and wrote the team's testing and review standards used to onboard new hires.],
   ),
-  tags: ("Palantir Foundry", "Databricks", "PySpark", "SQL", "Data Modeling", "Azure"),
+  tags: ("Applied AI / RAG", "Python", "Machine Learning", "Data Apps", "Analyst Collaboration", "Cloud"),
 )
 
 #cv-entry(
@@ -24,17 +24,16 @@
   date: [09/2019 – 01/2023],
   location: [Stuttgart, Germany],
   description: list(
-    [Wrote Python simulation frameworks that pair physical models with large-scale test data to validate HV/LV electrical systems before hardware existed.],
-    [Turned rough engineering specs into structured, well-modeled datasets that analyst and research teams used to build EV charging algorithms.],
+    [Wrote Python simulation frameworks pairing physical models with large-scale data to validate complex electrical systems, and turned engineering requirements into datasets research teams could act on.],
   ),
 )
 
 #cv-entry(
-  title: [Resident Engineer (Customer-Embedded, System Integration)],
+  title: [Resident Engineer (Customer-Facing, System Integration)],
   society: [Valeo Siemens eAutomotive GmbH],
   date: [02/2018 – 08/2019],
   location: [Stuttgart, Germany],
   description: list(
-    [Embedded on-site with the customer (Daimler) as the technical link between their engineers and Valeo development, translating requirements into work items through commissioning milestones.],
+    [Worked on-site at the customer (Daimler) as the technical link between their engineers and Valeo development, running workshops and translating requirements through commissioning milestones.],
   ),
 )
