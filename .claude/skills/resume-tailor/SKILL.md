@@ -52,7 +52,7 @@ Never write "7 years of Data Engineering experience". Write "2 Jahre als Data En
 | DevOps    | CI/CD (Azure DevOps, Jenkins), Git, Unit Testing, Linting                        |
 | APIs      | REST APIs, FastAPI (Grundkenntnisse)                                             |
 | Search    | Elasticsearch / OpenSearch (Grundkenntnisse)                                     |
-| ML & KI   | Scikit-learn, Anomalieerkennung, Zeitreihenanalyse, RAG, LangChain               |
+| ML & KI   | Scikit-learn, Anomalieerkennung, Zeitreihenanalyse, RAG, LangChain, Agentic AI (Multi-Agent-Workflow auf Databricks: Jira-Ticket → deploybare Pipeline, Qualitätsverträge zwischen Subagenten) |
 | BI        | Power BI, Tableau                                                                |
 | Sprachen  | Deutsch C2, Englisch C1, Russisch (Muttersprache), Kasachisch (Muttersprache)    |
 

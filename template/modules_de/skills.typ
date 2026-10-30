@@ -7,7 +7,7 @@
 - *Cloud & Architektur:* Microsoft Azure, Docker, REST APIs
 - *Orchestrierung & DevOps:* Azure Data Factory, Azure Databricks, CI/CD, Unit Testing, Linting, Git
 - *BI Tools & Visualisierung:* Power BI, Tableau, Management-Reporting
-- *Applied AI & Analytics:* RAG / LangChain, Generative AI Fundamentals, Machine Learning
+- *Applied AI & Analytics:* Agentic AI / Multi-Agent-Workflows mit Qualitätsverträgen, RAG / LangChain, Generative AI Fundamentals, Machine Learning
 - *Zertifizierungen:* Azure Data Engineer Associate (Microsoft), Databricks Data Engineer Associate
 
 #cv-section("Sprachen")

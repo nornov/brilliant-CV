@@ -11,13 +11,14 @@
   description: list(
     [Pipeline Architecture: Architected and managed fault-tolerant ETL pipelines using PySpark on Databricks to ingest high-frequency IoT telemetry from the global fleet.],
     [Palantir Foundry: Migrated a production data pipeline from Azure (Data Factory + Azure DevOps) to Palantir Foundry during the platform's rollout, rebuilding the transforms and datasets in Foundry and checking output parity against the legacy pipeline. Took part in the evaluation that fed the adoption decision.],
+    [Agentic Analytics Automation: Built an AI-driven workflow on Databricks that takes a Jira ticket and produces a deployable analytics pipeline without manual hand-offs. Specialised LLM subagents pass work to each other through explicit quality contracts (agreed inputs, outputs and acceptance checks), so the same ticket yields consistent results run after run.],
     [Canonical Datasets: Developed the "Single Source of Truth" (canonical datasets) for vehicle energy metrics, enabling Product and Finance teams to track fleet performance.],
     [Spark Optimization: Refactored legacy jobs using advanced techniques (Z-Ordering, Partitioning, Broadcast Joins), reducing latency by 85% and costs by €470k/year.],
     [Data Safety & Integrity: Designed Anomaly Detection systems within the ingestion layer to flag irregular data patterns and faulty logs before impacting downstream models.],
     [GenAI / RAG Implementation: Built an internal "Coding Copilot" for the engineering team by ingesting codebases into vector stores for semantic search across 50+ engineers.],
     [Ownership: Full-cycle responsibility – from architectural design and development to reliable production operation and FinOps optimization.],
   ),
-  tags: ("Palantir Foundry", "PySpark", "Databricks", "Azure", "CI/CD"),
+  tags: ("Palantir Foundry", "PySpark", "Databricks", "Agentic AI", "Azure", "CI/CD"),
 )
 
 #cv-entry(
