@@ -3,16 +3,15 @@
 
 #cv-section("Skills")
 
-- *Applied AI & ML:* RAG / LangChain, LLM evaluation, production ML systems, anomaly detection, time-series forecasting, scikit-learn
-- *Languages & Code:* Python (Expert), SQL, PySpark; production-grade code, testing, code review
-- *Data & Analysis:* pandas, NumPy, data modeling, canonical datasets, large-scale telemetry
-- *Data Visualization:* matplotlib, Power BI, Tableau
-- *Cloud & Deployment:* Microsoft Azure (certified), Palantir Foundry, Databricks, Delta Lake, Docker, CI/CD
-- *Working with Stakeholders:* embedded delivery with domain experts, workshops, communicating to engineers and executives
-- *Certifications:* Databricks GenAI, Databricks & Azure Data Engineer Associate
+- *Agentic & Applied AI:* multi-agent LLM workflows with quality contracts, prompt engineering, RAG / LangChain, LLM evaluation, anomaly detection, time-series
+- *Cloud & Architecture:* Microsoft Azure (certified), Azure Databricks, Delta Lake lakehouse, Azure Data Factory, Palantir Foundry, Docker, REST APIs
+- *Software Engineering:* Python (expert), SQL, PySpark; clean code, unit testing, linting, code review, Git, CI/CD (Azure DevOps)
+- *Industrial Domain:* automotive HV/LV electrical systems, EV power electronics, IoT telemetry, system integration & commissioning
+- *Working Across Teams:* team engineering standards, Center of Expertise, workshops, explaining AI to engineers and executives
+- *Certifications:* Databricks GenAI Solution Development, Databricks GenAI Fundamentals, Databricks & Azure Data Engineer Associate
 
 #cv-section("Languages")
-- #box(width: 65pt)[*German*] *Full professional (C2)*
 - #box(width: 65pt)[*English*] *Full professional*
+- #box(width: 65pt)[*German*] *Full professional (C2)*
 - #box(width: 65pt)[Russian] Native
 - #box(width: 65pt)[Kazakh] Native
