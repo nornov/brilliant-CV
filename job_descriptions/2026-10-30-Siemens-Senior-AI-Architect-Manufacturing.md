@@ -37,7 +37,7 @@
 
 ### Your Top 3 Selling Points
 
-1. **Agentic AI that ships, with guardrails**: The Jira-to-pipeline multi-agent workflow with quality contracts between subagents is exactly the "reusable capability" and "best practices in AI software engineering" story Siemens wants to scale across factories. Lead with it.
+1. **Agentic AI that ships, with guardrails**: The Jira-to-pipeline multi-agent workflow with quality contracts between subagents (ticket to review-ready pipeline: 14 hours → 30 minutes) is exactly the "reusable capability" and "best practices in AI software engineering" story Siemens wants to scale across factories. Lead with it.
 2. **Azure + Databricks production depth**: Certified Azure and Databricks engineer who runs production pipelines and cut cloud cost by €470k/year. Shows the architecture holds up at scale, not just in a demo.
 3. **Hardware and industrial background**: 5 years on automotive electrical systems and EV power electronics, including at Valeo Siemens eAutomotive (a former Siemens joint venture). Easier to talk to OT and plant engineers than a pure software profile.
 
@@ -65,7 +65,7 @@
 
 ## ✉️ Cover Letter Hooks
 
-1. **The Problem-Solver Hook:** "At Daimler Truck, a Jira ticket now turns into a deployable Databricks pipeline without anyone handing work along. The hard part was not the LLMs, it was getting consistent results, which we solved with explicit quality contracts between the agents. That is the problem I'd expect at factory scale."
+1. **The Problem-Solver Hook:** "At Daimler Truck, a Jira ticket now turns into a review-ready Databricks pipeline in 30 minutes instead of 14 hours, without anyone handing work along. The hard part was not the LLMs, it was getting consistent results, which we solved with explicit quality contracts between the agents. That is the problem I'd expect at factory scale."
 2. **The Domain Expert Hook:** "I started my career commissioning EV power electronics at Valeo Siemens eAutomotive and spent five years on vehicle electrical systems before moving into AI and data engineering, so I know what it takes to get software running next to real hardware."
 
 ---

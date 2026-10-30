@@ -9,7 +9,7 @@
   date: [02/2023 – Present],
   location: [Stuttgart, Germany],
   description: list(
-    [*Agentic AI workflow:* Designed and built a multi-agent system on Databricks that turns a Jira ticket into a deployable analytics pipeline on its own. Each LLM subagent hands work to the next through a quality contract (agreed inputs, outputs and acceptance checks), which is what keeps the output consistent from one run to the next.],
+    [*Agentic AI workflow:* Designed and built a multi-agent system on Databricks that turns a Jira ticket into a deployable analytics pipeline on its own; getting from ticket to a pipeline ready for review went from 14 hours to 30 minutes. LLM subagents hand work to each other through quality contracts (agreed inputs, outputs and acceptance checks), which keeps results consistent across runs.],
     [*LLM assistant in production:* Took a RAG coding assistant (Python, LangChain, vector search) from prototype through evaluation to a service 50+ engineers use daily, and set the bar for when its answers were good enough to ship.],
     [*Reusable data foundation:* Wrote fault-tolerant PySpark pipelines on an Azure Databricks lakehouse for high-frequency fleet IoT telemetry, with anomaly detection in the ingestion layer. Product and Finance build on the resulting canonical datasets; Spark tuning brought cloud cost down by €470k/year.],
     [*Engineering standards:* Introduced unit testing, linting and CI/CD in Azure DevOps as the team default, which cut deployments from 2 hours to 15 minutes. These are now the standards new hires are onboarded on.],

@@ -31,6 +31,7 @@ Never write "7 years of Data Engineering experience". Write "2 Jahre als Data En
 
 - Jährliche Kosteneinsparung: **470.000 €**
 - Deployment-Zyklen verkürzt: **>80 %** (von 2 Stunden auf 15 Minuten)
+- Agentischer Workflow (Jira-Ticket → Pipeline): Zeit bis zur review-fertigen Pipeline **von 14 Stunden auf 30 Minuten**
 
 ### Certifications (Confirmed)
 
@@ -148,7 +149,7 @@ Rules for bullets:
 - Format: **[Was] + [Wie] + [Ergebnis/Technologie]**
 - Most important bullet ALWAYS first
 - No empty filler — concrete actions only
-- Use verified numbers: 470.000 € and >80% only in appropriate context
+- Use verified numbers: 470.000 €, >80% and 14h → 30min only in appropriate context
 - Max 5 bullets per role for 1-page constraint
 
 ### 3.3 `modules_de/skills.typ` (and `modules_en/`) — Skills
