@@ -8,7 +8,7 @@
 - *Cloud & Architecture:* Microsoft Azure, S3 / Blob Storage, Docker
 - *Orchestration & DevOps:* Azure Data Factory, Databricks Workflows (Airflow eq.), CI/CD (Azure DevOps), Git
 - *BI & Analytics:* Delta Lake, Data Structures & Algorithms
-- *Applied AI & Safety:* ML Anomaly Detection, RAG, Synthetic Data Generation
+- *Applied AI & Safety:* Agentic AI / multi-agent workflows with quality contracts, ML Anomaly Detection, RAG, Synthetic Data Generation
 - *Certifications:* Azure Data Engineer Associate (Microsoft), Databricks Data Engineer Associate
 
 #cv-section("Languages")

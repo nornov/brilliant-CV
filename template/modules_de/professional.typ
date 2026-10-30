@@ -11,11 +11,12 @@
   description: list(
     [ELT-Pipelines & Big Data: Verantwortung für performante ELT-Prozesse auf Azure Databricks (Spark). Transformation massiver IoT-Zeitreihendaten in skalierbare Datenmodelle per Python & SQL.],
     [Clean Code & Automatisierung: Etablierung automatisierter Testroutinen (Unit Testing) und CI/CD-Pipelines in Azure DevOps zur Sicherstellung hoher Datenqualität bei stark reduzierten Deployment-Zyklen (von 2h auf 15min).],
+    [Agentische Analytics-Automatisierung: KI-gestützten Workflow auf Databricks aufgebaut, der aus einem Jira-Ticket ohne manuelle Übergaben eine deploybare Analytics-Pipeline erzeugt; die Zeit vom Ticket bis zur review-fertigen Pipeline sank von 14 Stunden auf 30 Minuten. Spezialisierte LLM-Subagenten reichen ihre Ergebnisse über klar definierte Qualitätsverträge (Ein- und Ausgaben, Abnahmekriterien) weiter, sodass dasselbe Ticket bei jedem Lauf konsistente Ergebnisse liefert.],
     [GenAI & Innovation: Aufbau eines internen „Coding Copilots“ auf Basis von RAG-Architekturen zur Steigerung der Entwicklerproduktivität für über 50 Ingenieure.],
     [Business Value & FinOps: Identifikation von Effizienzpotenzialen in der Cloud-Infrastruktur und Reduktion technischer Schulden, was zu jährlichen Einsparungen von 470.000 € führte.],
     [Ownership & Betrieb («You Build It, You Run It»): Ganzheitliche Verantwortung im Software-Development-Lifecycle – von der Architektur-Konzeption über Entwicklung bis zum ausfallsicheren Betrieb.],
   ),
-  tags: ("Python", "Spark", "Azure", "CI/CD", "Clean Code"),
+  tags: ("Python", "Spark", "Azure", "Databricks", "Agentic AI", "CI/CD"),
 )
 
 #cv-entry(
