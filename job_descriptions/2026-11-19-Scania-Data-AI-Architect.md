@@ -6,6 +6,7 @@
 **Source:** https://jobs.scania.com/job/S%C3%B6dert%C3%A4lje-Data-&-AI-Architect-151-38/1458936033/ (fetched 2026-11-19)
 **Deadline:** 2026-12-03 (screening on an ongoing basis)
 **Estimated Match:** 55%
+**Estimated Compensation:** 780k–1,020k SEK gross base/year (65–85k SEK/month, ~€71–93k) · Confidence: Low–Medium
 **Application Language:** English (posting in English; no Swedish requirement stated)
 
 ---
@@ -65,6 +66,44 @@ The posting has no formal "required / preferred" split and no stated years of ex
 - **Gap:** Data Mesh operating model
   **Impact:** Medium
   **Strategy:** Use Data Mesh vocabulary (domain ownership, data products, federated governance) only where it describes things you did, i.e. the datasets built for Product and Finance.
+
+---
+
+## 💰 Compensation Estimate
+
+**Stated in posting:** Not stated. Benefits listed: result bonus, flexible hours, health centre or wellness allowance, company car leasing.
+**Best-guess range (gross base):** 780k–1,020k SEK/year (65–85k SEK/month) ≈ €71–93k (rate ~1 EUR = 11 SEK, approximate; check the current rate)
+**Point estimate for your profile:** ~70k SEK/month (~840k SEK/year, ~€76k). You would be a stretch hire for a global lead-architect role, so expect an offer in the lower half of the band.
+**Variable / benefits:** Scania result bonus (amount not published), employer-paid occupational pension (typically ITP under the Swedish collective agreement; confirm), company car leasing.
+**Confidence:** Low–Medium. No Scania-specific salary data was found. The range is built from national IT-architect statistics plus adjustments.
+
+### Why this range
+
+1. **SCB baseline:** SCB's group "Systemanalytiker och IT-arkitekter" averages ~56.8k SEK/month nationally (quoted by Ledigajobb). That is the mean across all seniority levels and all of Sweden.
+2. **Stockholm and seniority uplift:** Stockholm-region pay is typically above the national mean. The posting implies a senior role ("lead the development of … global Data and AI architecture", architecture governance across markets), so pay should sit in the upper part of the distribution. Paylab puts the top 10% of Swedish IT analysts above ~83k SEK/month, which sets the upper bound of the range.
+3. **Aggregator cross-check:** Payscale's data-architect median is ~645k SEK/year (~54k/month), which confirms the national mid-point. Levels.fyi shows a p90 of 1.56M SEK *total comp* for Stockholm solution architects. That figure reflects tech companies with equity and does not apply to a traditional industrial employer, so it is excluded.
+4. **Employer type:** Scania is a large industrial company under a Swedish collective agreement. Base pay is structured and rarely at tech-company levels; the result bonus and pension make up part of the package.
+5. **Low outlier ignored:** Visulry's Södertälje "information architect" figures (445–540k SEK/year for senior) describe a different, more junior job family.
+
+### Net pay & relocation note
+
+- Sweden taxes more progressively than its headline rates suggest: municipal tax in Södertälje is roughly a third of income, and national income tax of 20% applies above roughly 50–55k SEK/month. Most of this range is therefore taxed at the top marginal rate.
+- Employer social contributions and the occupational pension are paid on top of the gross salary, unlike in Germany where you pay a large share of social insurance yourself. Compare net pay with a calculator (e.g. Skatteverket's) against your German net pay, not gross against gross.
+- The Swedish expert tax relief (*expertskatt*) requires a monthly salary well above this range, so it likely does not apply. Verify the current threshold.
+- The Stockholm rental market is tight (queue system), so ask whether Scania offers relocation or housing support.
+
+### Negotiation tip
+
+Anchor at ~80–85k SEK/month by pointing to the global scope and the GenAI production experience. If base pay is capped by the salary structure, negotiate a relocation package, a higher starting grade and an early salary review instead.
+
+**Sources:**
+
+- [Ledigajobb – IT-arkitekt lön (SCB figures)](https://ledigajobb.se/articles/it-arkitekt-lon): national mean for IT architects
+- [SCB – Lönestatistik](https://www.scb.se/hitta-statistik/sverige-i-siffror/lonesok/Search/?lon=arkitekt): official occupation statistics (page not reachable from this session; figures taken via Ledigajobb)
+- [Paylab – IT analyst salaries, Sweden](https://paylab.com/se/salaryinfo/information-technology/it-analyst): top 10% above ~83k SEK/month
+- [Payscale – Data Architect, Sweden](https://www.payscale.com/research/SE/Job=Data_Architect/Salary): median ~645k SEK/year
+- [Levels.fyi – Solution Architect, Greater Stockholm](https://www.levels.fyi/de-de/t/solution-architect/locations/greater-stockholm): tech-company total comp, excluded
+- [Visulry – Information Architect, Södertälje](https://visulry.com/salary/information-architect/sweden/stockholm/sodertalje): low outlier, excluded
 
 ---
 
